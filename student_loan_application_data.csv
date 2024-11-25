@@ -1,0 +1,401 @@
+Application_ID,Date_of_Application,Student_Age,Gender,School_Name,Program_of_Study,Year_of_Study,GPA,Household_Income,Socioeconomic_Status,Dependent_Family_Members,Employment_Status,Extra_Curricular_Involvement,Previous_Loan_Status,Loan_Amount_Requested,Academic_Performance_Rating,Special_Needs,Campus_Residence,Parental_Education_Level,Volunteer_Work
+App_001,2023-11-24,22,Male,University_B,Medicine,3,4.76,145629,Middle,3,Unemployed,High,No,318053,Poor,No,No,Tertiary,Low
+App_002,2023-02-27,26,Male,University_A,Humanities,3,2.69,787880,Low,4,Unemployed,Low,No,341673,Good,No,No,Primary,Low
+App_003,2023-01-13,27,Male,University_B,Social Sciences,4,4.7,149807,Low,3,Unemployed,Low,Yes,349194,Good,No,Yes,Primary,High
+App_004,2023-05-21,24,Male,University_A,Humanities,5,4.08,51139,High,5,Unemployed,High,No,349689,Good,No,No,Primary,Medium
+App_005,2023-05-06,28,Other,University_A,Social Sciences,5,3.7,273788,High,0,Unemployed,Low,No,131115,Good,No,Yes,Secondary,Low
+App_006,2023-04-25,24,Female,University_B,Business,4,2.81,549968,Low,5,Unemployed,Low,Yes,99433,Excellent,No,Yes,Tertiary,High
+App_007,2023-03-13,26,Female,University_B,Engineering,2,4.77,131724,High,0,Full-time,High,No,69784,Poor,No,Yes,Primary,High
+App_008,2023-02-22,34,Male,Polytechnic_C,Engineering,5,4.05,189145,Low,1,Part-time,High,No,291366,Good,No,Yes,Secondary,High
+App_009,2023-12-13,33,Male,University_B,Humanities,4,2.84,672518,Low,2,Unemployed,Medium,Yes,236466,Good,No,No,Tertiary,High
+App_010,2023-10-07,26,Male,University_A,Social Sciences,3,3.63,287178,Low,3,Part-time,High,Yes,131845,Good,No,No,Secondary,Medium
+App_011,2023-02-14,19,Female,Polytechnic_C,Engineering,2,3.97,594676,High,4,Full-time,High,Yes,122565,Average,Yes,No,Tertiary,Low
+App_012,2023-10-30,20,Male,Polytechnic_C,Medicine,1,2.54,763013,Low,3,Part-time,Low,No,188930,Average,No,Yes,Primary,Medium
+App_013,2023-08-05,31,Other,College_D,Humanities,3,4.55,516686,Middle,1,Unemployed,Medium,No,242457,Good,No,Yes,Primary,High
+App_014,2023-01-17,26,Male,Polytechnic_C,Social Sciences,2,2.05,59738,Low,6,Full-time,High,Yes,355217,Average,Yes,No,Tertiary,Low
+App_015,2023-01-16,19,Female,University_B,Medicine,4,2.62,58454,Low,3,Unemployed,Low,No,180996,Good,No,Yes,Primary,Low
+App_016,2023-02-17,18,Male,Polytechnic_C,Medicine,3,2.43,779386,Low,4,Unemployed,Low,No,172156,Average,No,Yes,Primary,Medium
+App_017,2023-04-22,28,Male,University_A,Medicine,2,4.46,410263,Low,4,Part-time,Medium,No,184345,Average,No,No,Tertiary,High
+App_018,2023-04-30,22,Female,College_D,Social Sciences,1,4.46,906800,Low,2,Part-time,Medium,No,475236,Good,No,Yes,Tertiary,Medium
+App_019,2023-09-16,26,Female,College_D,Business,3,4.79,176451,Low,2,Part-time,High,No,207444,Average,Yes,Yes,Primary,Medium
+App_020,2023-11-05,23,Female,University_B,Engineering,3,2.9,952132,Middle,1,Unemployed,Low,No,98184,Good,No,No,Primary,High
+App_021,2023-01-14,32,Male,University_A,Humanities,5,3.69,492828,Low,6,Part-time,High,No,349099,Good,No,No,Tertiary,High
+App_022,2023-10-15,35,Female,Polytechnic_C,Medicine,2,3.7,777744,Low,2,Unemployed,High,No,259609,Good,No,No,Secondary,High
+App_023,2023-04-12,31,Other,University_B,Social Sciences,2,4.55,188595,High,5,Unemployed,Medium,No,348353,Average,No,No,Tertiary,Medium
+App_024,2023-11-29,35,Male,College_D,Engineering,5,4.03,550905,Low,6,Part-time,Low,No,163999,Excellent,No,No,Primary,High
+App_025,2023-12-26,18,Male,University_B,Humanities,4,3.62,124268,High,5,Part-time,Medium,No,434966,Excellent,No,Yes,Primary,High
+App_026,2023-10-07,21,Female,University_A,Medicine,4,3.15,290068,Low,0,Unemployed,Low,No,90475,Good,No,Yes,Secondary,Low
+App_027,2023-08-03,20,Male,University_A,Humanities,5,4.22,451677,Middle,2,Unemployed,High,No,429364,Average,No,Yes,Secondary,Low
+App_028,2023-04-23,22,Female,Polytechnic_C,Business,3,4.37,143670,Middle,0,Part-time,High,No,220232,Average,No,Yes,Primary,Medium
+App_029,2023-08-18,35,Female,Polytechnic_C,Business,1,4.07,816260,Low,3,Unemployed,High,Yes,465710,Good,No,No,Primary,High
+App_030,2023-10-29,19,Female,Polytechnic_C,Business,4,2.24,895106,High,0,Part-time,High,No,302986,Good,No,Yes,Secondary,Medium
+App_031,2023-05-23,29,Male,University_B,Social Sciences,1,4.24,157402,Low,1,Full-time,Medium,No,140650,Poor,No,No,Secondary,Medium
+App_032,2023-01-04,35,Other,Polytechnic_C,Medicine,2,3.04,158214,Middle,6,Unemployed,High,No,305997,Excellent,No,Yes,Secondary,Low
+App_033,2023-03-23,22,Male,University_B,Engineering,2,2.29,378572,High,4,Part-time,Medium,Yes,482907,Good,No,No,Tertiary,Medium
+App_034,2023-12-24,31,Female,Polytechnic_C,Humanities,4,2.7,435416,Low,6,Unemployed,Low,No,411546,Average,No,Yes,Primary,Low
+App_035,2023-08-05,22,Male,University_B,Medicine,3,2.23,973783,Low,1,Unemployed,High,Yes,418494,Poor,No,No,Primary,High
+App_036,2023-06-24,19,Female,College_D,Humanities,2,3.82,363791,Low,6,Unemployed,Medium,No,352111,Excellent,Yes,Yes,Primary,High
+App_037,2023-05-23,27,Male,University_A,Medicine,1,3.84,193790,High,1,Unemployed,Low,No,479662,Good,No,No,Primary,Medium
+App_038,2023-03-21,29,Other,Polytechnic_C,Engineering,3,3.79,451312,Low,5,Unemployed,Low,No,99998,Average,No,Yes,Primary,High
+App_039,2023-04-21,19,Male,College_D,Business,4,4.91,861032,High,1,Part-time,High,No,362072,Average,No,Yes,Secondary,High
+App_040,2023-06-22,29,Female,Polytechnic_C,Business,2,2.98,902878,High,5,Part-time,High,No,386726,Good,No,No,Secondary,High
+App_041,2023-02-22,24,Female,College_D,Social Sciences,4,3.9,839743,Middle,1,Unemployed,Low,Yes,207492,Excellent,No,Yes,Primary,Medium
+App_042,2023-02-17,25,Male,University_B,Engineering,3,4.35,966976,Middle,2,Unemployed,Low,No,69593,Good,No,Yes,Tertiary,Medium
+App_043,2023-07-14,21,Male,College_D,Medicine,3,3.35,189613,Low,5,Part-time,Medium,Yes,433144,Average,No,Yes,Primary,Medium
+App_044,2023-02-19,29,Male,University_B,Engineering,3,2.68,722741,Low,3,Unemployed,High,Yes,473803,Good,No,Yes,Primary,Low
+App_045,2023-07-03,35,Female,College_D,Medicine,5,3.66,760029,Middle,4,Unemployed,Medium,Yes,352138,Average,No,Yes,Tertiary,Medium
+App_046,2023-06-26,31,Male,University_B,Medicine,5,3.13,199792,Low,0,Part-time,Low,Yes,250040,Good,No,No,Primary,High
+App_047,2023-11-06,22,Male,Polytechnic_C,Business,1,2.56,121734,Low,6,Full-time,High,Yes,91144,Good,No,Yes,Secondary,High
+App_048,2023-05-16,25,Female,University_B,Humanities,3,3.76,606278,Middle,6,Part-time,Medium,No,459008,Excellent,No,Yes,Secondary,Medium
+App_049,2023-01-23,23,Female,University_B,Engineering,3,3.14,640653,Low,6,Unemployed,Medium,Yes,79319,Good,No,No,Tertiary,Medium
+App_050,2023-08-24,23,Male,University_B,Business,2,4.32,58886,Low,5,Full-time,Low,No,454174,Excellent,No,No,Tertiary,High
+App_051,2023-10-02,31,Male,College_D,Business,1,2.89,689966,Low,0,Unemployed,Medium,Yes,225316,Good,No,No,Secondary,High
+App_052,2023-03-05,18,Male,Polytechnic_C,Humanities,1,2.74,731595,Middle,3,Unemployed,High,No,232415,Average,No,Yes,Secondary,Medium
+App_053,2023-07-13,23,Female,University_B,Social Sciences,4,2.22,222088,High,1,Unemployed,Medium,No,478417,Good,No,Yes,Primary,High
+App_054,2023-02-10,28,Male,University_A,Humanities,3,2.8,511477,Low,5,Part-time,High,No,277700,Good,No,Yes,Tertiary,Low
+App_055,2023-10-10,31,Male,University_A,Business,2,3.14,418247,Middle,1,Part-time,High,No,268377,Good,No,No,Tertiary,High
+App_056,2023-05-31,25,Male,University_B,Humanities,4,4.35,807524,High,4,Part-time,Low,No,113197,Excellent,Yes,No,Secondary,Medium
+App_057,2023-11-18,26,Female,Polytechnic_C,Humanities,5,2.46,273404,Low,6,Part-time,Low,No,453906,Good,No,No,Tertiary,Medium
+App_058,2023-11-13,23,Female,University_B,Engineering,3,3.17,708589,High,0,Part-time,High,No,168865,Average,No,No,Tertiary,High
+App_059,2023-07-05,21,Female,University_A,Humanities,1,3.08,834616,Low,1,Part-time,Low,No,441998,Average,No,No,Primary,Low
+App_060,2023-10-23,30,Male,University_A,Business,3,2.27,208727,Middle,2,Part-time,Medium,No,392244,Average,No,Yes,Tertiary,High
+App_061,2023-04-09,19,Male,College_D,Business,3,4.83,481709,High,4,Unemployed,Low,No,495371,Excellent,No,No,Primary,Medium
+App_062,2023-12-27,33,Male,Polytechnic_C,Humanities,5,3.33,696002,Low,6,Unemployed,Low,No,365779,Good,No,No,Tertiary,High
+App_063,2023-02-05,25,Male,Polytechnic_C,Engineering,2,4.28,769916,High,2,Part-time,Low,No,55994,Good,Yes,No,Tertiary,Medium
+App_064,2023-01-24,24,Male,University_B,Engineering,2,2.31,513873,High,5,Unemployed,Medium,Yes,382339,Average,Yes,Yes,Tertiary,Low
+App_065,2023-12-05,32,Male,College_D,Social Sciences,2,2.26,951736,Low,5,Unemployed,Low,No,457591,Excellent,No,No,Tertiary,Low
+App_066,2023-04-27,29,Male,College_D,Humanities,4,3.29,277797,High,5,Part-time,Medium,No,381451,Average,No,No,Secondary,Low
+App_067,2023-05-29,27,Female,University_B,Business,2,3.67,140898,Low,2,Unemployed,Low,No,250533,Excellent,No,Yes,Tertiary,Medium
+App_068,2023-02-10,25,Female,College_D,Engineering,4,3.54,990145,High,3,Part-time,High,No,78378,Average,No,No,Primary,High
+App_069,2023-04-30,25,Female,University_A,Medicine,5,2.31,155345,Low,3,Unemployed,High,Yes,209794,Good,Yes,No,Tertiary,High
+App_070,2023-02-21,18,Other,University_B,Humanities,3,2.27,196814,Middle,6,Part-time,High,No,324927,Excellent,No,Yes,Primary,Low
+App_071,2023-07-14,24,Male,University_B,Medicine,4,3.66,838996,Low,2,Part-time,Low,No,71591,Average,No,No,Tertiary,Low
+App_072,2023-05-23,30,Female,University_A,Social Sciences,5,3.79,179139,Low,3,Unemployed,Medium,No,217413,Average,No,Yes,Tertiary,High
+App_073,2023-08-21,28,Male,Polytechnic_C,Engineering,4,4.35,668213,Low,2,Full-time,Medium,No,333078,Poor,No,No,Secondary,Low
+App_074,2023-11-22,26,Male,University_A,Engineering,5,4.59,815470,Low,1,Part-time,High,No,346177,Good,No,No,Secondary,Medium
+App_075,2023-07-06,20,Male,University_B,Business,2,2.04,452686,High,3,Unemployed,Medium,No,128423,Excellent,No,No,Secondary,Medium
+App_076,2023-03-25,26,Female,College_D,Medicine,2,3.24,418611,Low,2,Part-time,Low,No,221353,Good,No,No,Tertiary,High
+App_077,2023-07-09,29,Male,University_B,Business,5,4.34,500246,Low,5,Part-time,Medium,No,313403,Excellent,No,No,Primary,High
+App_078,2023-07-01,34,Female,Polytechnic_C,Engineering,1,4.17,379780,Low,4,Unemployed,Low,No,415831,Excellent,No,Yes,Secondary,Low
+App_079,2023-04-18,30,Female,University_A,Engineering,5,3.68,879504,Middle,6,Part-time,High,No,165761,Good,No,No,Secondary,Low
+App_080,2023-12-10,35,Female,University_B,Medicine,4,4.98,196622,Middle,4,Unemployed,Medium,Yes,130319,Average,No,No,Secondary,High
+App_081,2023-05-17,28,Female,University_A,Medicine,5,2.73,309822,Middle,3,Part-time,High,No,76486,Average,No,No,Secondary,High
+App_082,2023-12-26,18,Male,University_B,Medicine,3,3.56,340421,Low,4,Part-time,Medium,No,403178,Excellent,No,No,Primary,Low
+App_083,2023-12-16,21,Male,Polytechnic_C,Social Sciences,1,4.06,725933,High,0,Unemployed,High,No,433557,Excellent,No,Yes,Tertiary,High
+App_084,2023-11-28,26,Female,College_D,Engineering,5,2.51,138341,Low,0,Part-time,High,No,255983,Average,No,No,Primary,Low
+App_085,2023-02-06,23,Female,Polytechnic_C,Engineering,1,2.81,310221,Low,4,Part-time,Low,No,283631,Excellent,No,No,Secondary,High
+App_086,2023-11-08,26,Female,Polytechnic_C,Business,1,2.81,630278,Low,5,Part-time,Low,No,444705,Good,No,Yes,Secondary,Medium
+App_087,2023-11-22,19,Male,Polytechnic_C,Social Sciences,5,2.44,680193,Low,6,Unemployed,Low,No,362020,Average,No,No,Secondary,High
+App_088,2023-03-29,21,Female,Polytechnic_C,Engineering,5,2.5,679153,Middle,6,Full-time,Low,No,351599,Poor,Yes,Yes,Tertiary,Medium
+App_089,2023-10-01,31,Female,Polytechnic_C,Humanities,2,2.83,806211,Middle,2,Unemployed,High,No,314623,Good,No,No,Tertiary,Medium
+App_090,2023-05-06,29,Female,Polytechnic_C,Humanities,5,2.9,687107,Low,4,Unemployed,High,No,97229,Excellent,No,No,Tertiary,High
+App_091,2023-03-25,28,Female,University_A,Medicine,5,4.35,348761,High,5,Unemployed,Medium,No,166436,Average,No,No,Primary,Medium
+App_092,2023-08-25,31,Male,University_B,Humanities,2,3.08,866808,Middle,4,Unemployed,Medium,No,276458,Poor,No,Yes,Secondary,Low
+App_093,2023-07-14,34,Female,College_D,Humanities,2,4.83,774016,Low,4,Part-time,Low,Yes,201929,Excellent,No,Yes,Tertiary,Low
+App_094,2023-05-19,21,Male,College_D,Social Sciences,3,4.16,78127,Low,2,Unemployed,High,No,462283,Average,No,Yes,Secondary,Medium
+App_095,2023-11-24,30,Male,University_B,Medicine,5,3.49,939079,Middle,2,Unemployed,Low,Yes,256738,Excellent,No,No,Tertiary,High
+App_096,2023-12-19,24,Other,University_A,Engineering,4,3.85,938217,Low,5,Unemployed,Low,Yes,127601,Good,No,Yes,Tertiary,Medium
+App_097,2023-10-13,26,Male,University_A,Engineering,1,3.37,740388,Middle,0,Unemployed,High,Yes,119305,Good,No,No,Tertiary,Medium
+App_098,2023-04-23,19,Female,Polytechnic_C,Engineering,2,2.41,968371,Low,3,Unemployed,Low,No,226248,Average,No,Yes,Tertiary,Medium
+App_099,2023-12-17,31,Other,University_A,Humanities,5,2.02,366302,Middle,0,Unemployed,High,No,93277,Good,No,No,Secondary,High
+App_100,2023-06-16,18,Female,Polytechnic_C,Social Sciences,4,3.19,265425,Low,2,Part-time,High,Yes,299484,Good,No,No,Primary,Medium
+App_101,2023-01-29,34,Male,College_D,Social Sciences,1,4.52,592899,Low,2,Unemployed,High,No,349599,Good,No,No,Tertiary,High
+App_102,2023-04-28,35,Male,University_A,Social Sciences,5,3.14,686408,Low,5,Unemployed,Low,Yes,440759,Good,No,No,Tertiary,Low
+App_103,2023-01-17,24,Male,Polytechnic_C,Social Sciences,4,4.59,584273,Middle,2,Unemployed,Medium,No,75853,Good,No,No,Secondary,Medium
+App_104,2023-06-11,29,Male,University_B,Humanities,1,3.32,247810,Low,6,Unemployed,Low,No,337389,Good,No,Yes,Secondary,Medium
+App_105,2023-07-25,31,Male,University_B,Humanities,4,3.29,834170,High,2,Unemployed,Medium,Yes,259291,Good,No,No,Tertiary,Medium
+App_106,2023-05-18,20,Female,University_A,Business,2,4.47,460780,Low,2,Unemployed,Low,No,187655,Excellent,No,Yes,Primary,Low
+App_107,2023-02-03,28,Female,University_B,Medicine,5,3.95,359898,High,5,Full-time,Low,No,94605,Average,No,No,Secondary,Low
+App_108,2023-04-19,28,Male,University_B,Medicine,4,3.78,727558,Low,5,Part-time,High,No,258942,Good,Yes,No,Tertiary,Low
+App_109,2023-10-18,21,Female,College_D,Engineering,4,2.9,107219,Low,5,Unemployed,Medium,Yes,313099,Good,No,No,Tertiary,Low
+App_110,2023-06-11,27,Male,Polytechnic_C,Humanities,5,3.81,871875,Middle,2,Unemployed,High,No,277798,Average,No,Yes,Tertiary,High
+App_111,2023-04-19,34,Male,College_D,Humanities,1,4.09,991529,Low,1,Unemployed,Low,Yes,455707,Good,Yes,No,Tertiary,Medium
+App_112,2023-12-02,27,Male,University_A,Engineering,5,3.44,882336,Low,1,Unemployed,Medium,No,415885,Excellent,No,Yes,Primary,Medium
+App_113,2023-09-13,31,Male,College_D,Medicine,4,2.53,300967,Low,4,Part-time,High,No,118354,Excellent,No,No,Secondary,Low
+App_114,2023-07-22,28,Female,University_A,Medicine,3,3.19,568927,Low,6,Part-time,Low,Yes,449524,Good,No,No,Primary,Low
+App_115,2023-11-26,30,Female,University_A,Social Sciences,1,2.96,454630,Middle,1,Full-time,Medium,No,120711,Excellent,No,Yes,Primary,High
+App_116,2023-08-23,27,Female,University_B,Humanities,4,4.2,168220,Middle,0,Part-time,Medium,No,302141,Excellent,No,No,Tertiary,Low
+App_117,2023-03-15,35,Male,University_B,Medicine,3,3.9,302792,Middle,6,Part-time,Medium,Yes,343232,Good,No,No,Secondary,High
+App_118,2023-05-16,22,Female,Polytechnic_C,Business,1,4.9,573850,Middle,6,Unemployed,Medium,No,153865,Good,No,No,Primary,High
+App_119,2023-03-13,24,Female,University_B,Medicine,2,4.35,719077,High,6,Part-time,Medium,Yes,305779,Good,No,No,Secondary,High
+App_120,2023-05-07,31,Male,University_A,Business,5,2.98,672780,Middle,6,Unemployed,Low,Yes,257260,Excellent,No,Yes,Secondary,Medium
+App_121,2023-10-15,30,Female,Polytechnic_C,Business,1,2.84,124461,High,4,Unemployed,High,No,391966,Excellent,No,No,Tertiary,Medium
+App_122,2023-10-03,23,Female,University_B,Social Sciences,1,4.36,603948,Low,3,Part-time,High,No,349541,Poor,No,No,Tertiary,Medium
+App_123,2023-05-15,27,Female,University_A,Engineering,4,3.1,981895,High,5,Part-time,Low,No,152812,Excellent,No,Yes,Secondary,High
+App_124,2023-10-27,30,Male,Polytechnic_C,Social Sciences,3,4.8,62653,High,2,Part-time,High,No,344213,Good,No,No,Tertiary,Low
+App_125,2023-08-08,35,Male,Polytechnic_C,Engineering,1,2.6,428638,Low,5,Unemployed,Medium,No,372959,Good,No,No,Tertiary,Medium
+App_126,2023-10-26,18,Male,Polytechnic_C,Medicine,5,4.99,381845,Low,1,Part-time,Low,No,435701,Good,No,No,Tertiary,High
+App_127,2023-07-24,27,Male,University_B,Humanities,1,2.54,188394,Low,5,Unemployed,Medium,No,324856,Good,No,Yes,Secondary,High
+App_128,2023-07-05,27,Male,University_A,Business,1,4.3,455629,Middle,0,Part-time,Low,Yes,179103,Good,Yes,Yes,Tertiary,Low
+App_129,2023-04-23,24,Female,College_D,Business,4,2.08,952628,Low,5,Unemployed,Low,No,177042,Poor,No,Yes,Tertiary,Medium
+App_130,2023-03-12,31,Female,University_A,Business,1,4.18,929727,Middle,3,Unemployed,High,No,87562,Average,No,No,Tertiary,Low
+App_131,2023-09-18,28,Male,University_A,Business,3,4.83,645990,Middle,2,Unemployed,Low,No,189595,Good,No,Yes,Secondary,High
+App_132,2023-09-10,32,Female,College_D,Engineering,4,2.63,491307,Low,2,Part-time,Medium,No,457252,Excellent,No,Yes,Primary,Medium
+App_133,2023-02-16,32,Female,College_D,Medicine,2,4.39,433162,Middle,3,Unemployed,High,No,275478,Average,No,No,Secondary,Medium
+App_134,2023-01-25,32,Female,College_D,Engineering,2,4.49,622896,Low,3,Unemployed,Medium,No,219560,Good,No,No,Primary,Low
+App_135,2023-02-26,24,Male,University_B,Business,4,2.21,766116,High,3,Part-time,High,No,408999,Average,No,No,Secondary,High
+App_136,2023-03-20,34,Male,University_A,Business,3,4.54,231162,High,5,Part-time,High,No,351999,Average,No,No,Primary,Low
+App_137,2023-11-18,33,Male,University_B,Engineering,4,4.39,849776,High,0,Unemployed,High,No,96973,Average,No,Yes,Tertiary,Low
+App_138,2023-03-23,23,Male,University_B,Social Sciences,4,4.02,543894,High,4,Unemployed,Medium,No,108998,Average,No,Yes,Primary,Medium
+App_139,2023-12-15,20,Female,University_A,Business,4,2.42,857788,Middle,5,Unemployed,Low,No,402189,Excellent,No,No,Tertiary,Medium
+App_140,2023-08-05,27,Male,Polytechnic_C,Business,4,2.91,126537,Low,4,Part-time,Medium,Yes,266836,Good,No,No,Tertiary,High
+App_141,2023-11-02,34,Other,University_A,Humanities,1,2.76,67500,Low,6,Unemployed,Medium,Yes,272057,Excellent,No,No,Secondary,Low
+App_142,2023-02-02,28,Female,Polytechnic_C,Engineering,5,2.46,665895,Low,1,Part-time,High,No,241505,Average,Yes,No,Primary,Medium
+App_143,2023-07-17,20,Male,Polytechnic_C,Business,2,3.27,120813,Middle,2,Part-time,High,No,232613,Good,No,No,Primary,Low
+App_144,2023-07-15,25,Other,University_B,Social Sciences,3,3.13,64463,Low,5,Unemployed,Low,Yes,149871,Good,No,No,Secondary,Medium
+App_145,2023-11-02,27,Male,University_B,Social Sciences,1,3.35,324921,Low,5,Unemployed,Medium,Yes,218159,Good,Yes,No,Primary,Low
+App_146,2023-08-28,25,Female,Polytechnic_C,Business,2,3.79,276222,Low,1,Unemployed,Medium,No,230630,Good,No,No,Primary,Medium
+App_147,2023-09-28,24,Male,University_B,Medicine,5,3.75,91761,Middle,5,Unemployed,Medium,No,361362,Excellent,No,Yes,Secondary,Medium
+App_148,2023-05-09,22,Female,University_B,Engineering,4,3.6,113406,High,4,Part-time,Medium,Yes,393623,Good,No,No,Tertiary,High
+App_149,2023-10-11,18,Female,University_A,Social Sciences,5,4.77,877630,Low,5,Unemployed,High,Yes,62691,Poor,No,No,Secondary,High
+App_150,2023-01-06,19,Female,University_B,Medicine,2,4.61,467307,Low,6,Part-time,High,No,453534,Good,No,No,Secondary,High
+App_151,2023-12-15,25,Male,University_B,Social Sciences,2,3.25,581219,High,3,Unemployed,Medium,No,209812,Excellent,No,Yes,Secondary,Medium
+App_152,2023-02-28,33,Male,University_B,Business,1,2.11,350404,High,5,Unemployed,High,No,138738,Average,No,Yes,Secondary,High
+App_153,2023-12-16,20,Female,Polytechnic_C,Medicine,1,4.91,709104,Low,2,Part-time,Medium,No,233352,Good,No,No,Primary,Medium
+App_154,2023-10-02,32,Female,University_B,Engineering,3,4.1,797245,Low,4,Unemployed,Low,Yes,373077,Average,No,No,Secondary,High
+App_155,2023-05-17,31,Male,University_B,Engineering,4,4.44,575387,Middle,2,Part-time,High,No,480746,Average,No,No,Secondary,Low
+App_156,2023-11-25,24,Male,College_D,Social Sciences,5,3.78,854373,Low,6,Part-time,High,No,470896,Good,No,No,Secondary,Medium
+App_157,2023-06-24,30,Female,University_A,Medicine,4,4.74,485612,Low,1,Unemployed,Low,No,281845,Average,No,No,Tertiary,Medium
+App_158,2023-02-27,33,Female,College_D,Humanities,5,2.33,494150,Middle,6,Part-time,Medium,No,376726,Good,No,No,Secondary,Low
+App_159,2023-05-31,30,Male,University_B,Humanities,4,2.74,785901,Low,5,Unemployed,Medium,No,126450,Good,No,No,Primary,Medium
+App_160,2023-08-11,25,Female,Polytechnic_C,Engineering,2,3.99,471818,Low,4,Unemployed,Low,Yes,280929,Good,No,No,Tertiary,Medium
+App_161,2023-03-22,22,Male,University_B,Humanities,2,2.5,136431,Middle,1,Unemployed,Medium,No,73528,Average,No,Yes,Tertiary,High
+App_162,2023-08-21,18,Male,University_B,Business,4,3.84,721652,Middle,2,Full-time,Low,No,478957,Good,No,No,Tertiary,Low
+App_163,2023-01-02,21,Female,University_A,Business,3,3.69,612628,Middle,0,Unemployed,Low,Yes,172415,Good,Yes,No,Primary,High
+App_164,2023-05-15,31,Female,University_B,Engineering,2,3.94,613772,Low,3,Part-time,Low,No,154692,Average,No,No,Secondary,Medium
+App_165,2023-09-14,25,Female,University_B,Humanities,3,3.94,695972,Low,1,Unemployed,Low,No,409325,Good,No,No,Tertiary,High
+App_166,2023-04-02,23,Female,University_A,Social Sciences,2,4.9,210097,High,5,Unemployed,High,No,245989,Average,No,Yes,Secondary,High
+App_167,2023-09-17,34,Female,College_D,Medicine,1,2.99,340946,Middle,2,Unemployed,Medium,Yes,131784,Average,No,No,Primary,Low
+App_168,2023-02-24,32,Male,Polytechnic_C,Social Sciences,1,4.39,137657,Low,5,Full-time,Medium,Yes,447270,Good,No,Yes,Primary,Low
+App_169,2023-11-17,19,Female,University_A,Engineering,4,2.32,374960,Middle,6,Part-time,Medium,No,431936,Good,No,Yes,Secondary,Low
+App_170,2023-06-02,35,Male,College_D,Social Sciences,5,2.3,132860,Low,4,Full-time,High,No,497094,Excellent,No,Yes,Tertiary,Medium
+App_171,2023-11-24,25,Female,University_A,Engineering,1,2.67,586141,Low,6,Part-time,Medium,No,94991,Excellent,No,No,Tertiary,Medium
+App_172,2023-09-17,21,Male,Polytechnic_C,Social Sciences,2,4.24,263068,Middle,1,Unemployed,High,No,108915,Good,No,Yes,Primary,High
+App_173,2023-11-08,32,Other,Polytechnic_C,Humanities,2,3.67,897312,Middle,5,Part-time,Medium,No,437753,Average,No,Yes,Secondary,Low
+App_174,2023-04-12,22,Female,University_A,Medicine,1,4.06,212924,High,2,Unemployed,Low,Yes,78593,Average,No,Yes,Primary,High
+App_175,2023-03-20,32,Other,College_D,Medicine,1,2.66,612445,Middle,5,Part-time,Medium,No,177427,Good,No,Yes,Secondary,Low
+App_176,2023-07-11,34,Male,University_B,Business,5,3.12,392622,Low,0,Part-time,Medium,No,375584,Good,No,Yes,Tertiary,High
+App_177,2023-03-24,35,Male,College_D,Humanities,1,3.39,459711,Middle,1,Unemployed,High,Yes,127425,Good,No,Yes,Secondary,Low
+App_178,2023-10-04,28,Female,Polytechnic_C,Engineering,4,4.04,664923,High,2,Part-time,Low,Yes,486440,Excellent,No,No,Secondary,High
+App_179,2023-09-29,32,Male,University_A,Social Sciences,5,4.07,715105,Low,1,Unemployed,Low,Yes,479986,Good,No,Yes,Secondary,Medium
+App_180,2023-01-01,34,Male,University_A,Business,1,2.45,850298,Middle,5,Part-time,Medium,Yes,200829,Average,No,No,Secondary,High
+App_181,2023-11-03,31,Female,University_B,Humanities,2,4.99,925064,Low,6,Part-time,High,Yes,57200,Good,No,No,Secondary,High
+App_182,2023-06-15,35,Other,University_A,Medicine,1,3.45,731406,Low,2,Unemployed,Medium,No,229973,Good,No,No,Secondary,High
+App_183,2023-09-08,32,Male,University_A,Medicine,4,2.89,764138,Low,3,Unemployed,High,No,413748,Good,Yes,No,Primary,Low
+App_184,2023-01-10,23,Other,College_D,Social Sciences,4,4.76,724396,Middle,6,Unemployed,High,No,471674,Good,Yes,No,Primary,High
+App_185,2023-02-27,33,Female,University_A,Business,2,2.26,119326,Middle,2,Unemployed,Medium,No,108341,Excellent,Yes,No,Primary,Medium
+App_186,2023-07-05,32,Female,College_D,Business,5,4.49,375236,High,2,Part-time,Low,No,209969,Good,No,Yes,Secondary,Low
+App_187,2023-06-07,26,Male,Polytechnic_C,Humanities,2,4.19,782614,Middle,2,Unemployed,Low,Yes,285961,Good,No,Yes,Secondary,High
+App_188,2023-05-03,25,Other,University_B,Engineering,1,3.04,508737,Middle,4,Part-time,Low,No,297039,Average,No,Yes,Tertiary,High
+App_189,2023-01-30,26,Male,Polytechnic_C,Business,2,3.03,815416,Low,2,Part-time,Medium,Yes,61926,Excellent,No,No,Tertiary,High
+App_190,2023-05-04,34,Other,Polytechnic_C,Business,5,4.35,937586,Low,3,Unemployed,High,No,223998,Good,No,No,Primary,Medium
+App_191,2023-10-18,33,Male,Polytechnic_C,Medicine,3,3.56,300229,High,6,Part-time,Low,Yes,159581,Good,No,No,Primary,Low
+App_192,2023-02-10,25,Male,College_D,Engineering,2,3.04,110718,Middle,0,Unemployed,Medium,Yes,437979,Good,Yes,Yes,Secondary,Medium
+App_193,2023-02-13,26,Female,Polytechnic_C,Social Sciences,5,2.29,306355,Middle,3,Unemployed,Low,No,332069,Poor,No,No,Primary,Medium
+App_194,2023-09-06,32,Male,College_D,Medicine,3,4.17,140400,Low,0,Part-time,Medium,Yes,161083,Average,Yes,No,Secondary,High
+App_195,2023-02-05,20,Other,University_B,Social Sciences,5,3.36,505589,Low,6,Unemployed,Low,Yes,156850,Excellent,No,No,Tertiary,Medium
+App_196,2023-09-30,27,Male,College_D,Medicine,5,2.2,171620,Low,5,Unemployed,High,Yes,336483,Average,No,No,Secondary,High
+App_197,2023-03-06,25,Male,University_B,Medicine,3,2.13,525394,Low,4,Unemployed,Medium,Yes,324342,Average,No,No,Tertiary,High
+App_198,2023-03-07,26,Female,University_B,Humanities,2,4.13,692039,Low,4,Part-time,Low,No,443402,Good,No,No,Secondary,Medium
+App_199,2023-12-04,28,Other,University_B,Business,3,2.07,688407,Low,4,Part-time,Medium,No,185611,Good,No,No,Secondary,Medium
+App_200,2023-09-01,28,Male,Polytechnic_C,Engineering,2,3.03,107701,Middle,0,Full-time,High,No,337729,Excellent,No,No,Secondary,Low
+App_201,2023-10-09,35,Female,College_D,Medicine,5,2.33,374314,High,3,Unemployed,Low,No,303244,Excellent,Yes,No,Tertiary,Low
+App_202,2023-03-26,20,Male,Polytechnic_C,Engineering,2,4.4,748435,High,1,Part-time,Low,No,376653,Excellent,No,No,Secondary,Low
+App_203,2023-05-16,22,Female,University_B,Business,4,4.79,827722,Middle,4,Full-time,Medium,Yes,432690,Good,No,Yes,Primary,Low
+App_204,2023-09-28,22,Male,University_A,Engineering,3,4.22,740017,Middle,0,Unemployed,Medium,Yes,124106,Average,No,No,Primary,High
+App_205,2023-11-07,25,Male,University_B,Engineering,3,3.55,826636,Low,6,Unemployed,Low,No,414417,Average,No,Yes,Primary,Low
+App_206,2023-08-05,30,Male,University_A,Social Sciences,1,3.66,234178,Low,5,Part-time,Low,Yes,416348,Good,No,Yes,Primary,Low
+App_207,2023-04-19,22,Female,University_B,Social Sciences,5,2.99,175245,Low,3,Part-time,Medium,Yes,400361,Average,No,Yes,Primary,High
+App_208,2023-10-04,24,Female,University_B,Business,5,3.28,63280,Middle,4,Part-time,Low,No,59640,Average,No,No,Tertiary,Low
+App_209,2023-12-20,20,Other,Polytechnic_C,Social Sciences,2,3.39,792287,Low,2,Unemployed,Medium,No,247450,Excellent,No,Yes,Tertiary,Low
+App_210,2023-04-13,31,Female,College_D,Social Sciences,4,4.39,193876,Middle,3,Unemployed,Low,Yes,355662,Good,No,Yes,Primary,Medium
+App_211,2023-06-09,31,Female,University_A,Social Sciences,5,3.89,785575,Middle,0,Full-time,Medium,No,397879,Good,No,No,Primary,Medium
+App_212,2023-07-24,28,Female,Polytechnic_C,Social Sciences,4,2.56,61901,Low,6,Part-time,Low,Yes,326194,Good,Yes,No,Secondary,High
+App_213,2023-12-10,35,Female,University_B,Humanities,1,3.97,221790,Low,6,Part-time,Low,No,72797,Good,No,Yes,Primary,High
+App_214,2023-11-29,32,Female,Polytechnic_C,Engineering,3,3.19,570526,Low,1,Part-time,Low,Yes,183932,Excellent,No,No,Secondary,High
+App_215,2023-07-11,31,Male,College_D,Engineering,4,4.21,413546,Low,1,Unemployed,Medium,No,139296,Good,No,Yes,Secondary,Low
+App_216,2023-08-13,19,Female,Polytechnic_C,Social Sciences,5,4.65,598410,Low,1,Part-time,Medium,No,81514,Good,No,Yes,Secondary,Medium
+App_217,2023-09-22,24,Male,University_A,Business,3,3.35,592347,High,2,Unemployed,High,No,198904,Average,No,No,Secondary,High
+App_218,2023-08-20,31,Male,College_D,Social Sciences,4,3.29,871021,Low,3,Unemployed,Low,No,155222,Average,No,No,Primary,High
+App_219,2023-03-03,30,Male,Polytechnic_C,Business,4,2.01,912460,Low,4,Unemployed,Low,Yes,463762,Excellent,No,No,Secondary,Medium
+App_220,2023-05-07,18,Other,University_A,Engineering,2,2.64,805777,High,3,Unemployed,High,No,415180,Excellent,No,Yes,Primary,Medium
+App_221,2023-04-26,30,Female,Polytechnic_C,Medicine,3,2.84,321840,Middle,1,Unemployed,Medium,Yes,373991,Average,No,Yes,Primary,Medium
+App_222,2023-02-02,33,Female,Polytechnic_C,Business,4,4.11,225073,Middle,2,Unemployed,Medium,No,192229,Good,Yes,No,Secondary,Low
+App_223,2023-06-23,18,Male,College_D,Medicine,2,4.39,439933,Middle,6,Unemployed,High,Yes,77831,Good,No,No,Primary,High
+App_224,2023-01-11,29,Male,University_B,Business,5,3.73,183096,Low,5,Part-time,High,No,293773,Good,No,No,Primary,High
+App_225,2023-10-29,27,Male,College_D,Engineering,4,4.4,836197,Low,1,Full-time,Low,Yes,393281,Excellent,No,Yes,Secondary,Low
+App_226,2023-10-11,30,Male,College_D,Medicine,2,3.61,869067,Middle,6,Part-time,High,No,54369,Good,No,Yes,Tertiary,Low
+App_227,2023-04-28,31,Male,College_D,Business,2,3.1,965889,Low,0,Unemployed,Medium,No,84916,Excellent,No,No,Primary,Low
+App_228,2023-10-29,35,Male,University_A,Social Sciences,3,2.59,331819,Low,3,Unemployed,Medium,No,253761,Excellent,Yes,No,Secondary,Low
+App_229,2023-04-23,35,Male,Polytechnic_C,Humanities,2,2.34,818538,Low,2,Part-time,Medium,Yes,396225,Average,No,No,Tertiary,Medium
+App_230,2023-01-04,25,Male,University_A,Medicine,4,4.01,979473,Low,5,Unemployed,High,No,192244,Good,No,Yes,Tertiary,Medium
+App_231,2023-02-06,33,Male,Polytechnic_C,Engineering,1,3.47,173791,Low,1,Unemployed,Low,No,397593,Average,No,No,Primary,High
+App_232,2023-12-29,25,Male,College_D,Engineering,5,4.9,858903,High,2,Unemployed,Medium,No,496736,Average,No,No,Primary,Medium
+App_233,2023-11-20,26,Female,Polytechnic_C,Engineering,4,2.94,993610,Low,5,Unemployed,High,Yes,396082,Good,No,No,Tertiary,High
+App_234,2023-01-31,31,Male,Polytechnic_C,Medicine,4,3.17,80782,Low,0,Part-time,Medium,No,238858,Excellent,No,Yes,Primary,Medium
+App_235,2023-04-28,33,Male,University_B,Medicine,5,3.18,401284,High,0,Part-time,Medium,Yes,106566,Average,No,Yes,Secondary,Medium
+App_236,2023-02-04,18,Female,College_D,Business,5,2.34,896313,High,3,Unemployed,High,No,60002,Good,No,No,Tertiary,High
+App_237,2023-01-17,30,Male,University_B,Engineering,2,3.06,500179,Low,2,Unemployed,Medium,Yes,203351,Average,No,No,Primary,Medium
+App_238,2023-06-19,28,Female,College_D,Engineering,4,3.37,335192,High,1,Part-time,Medium,No,390478,Good,No,No,Tertiary,High
+App_239,2023-02-06,30,Female,Polytechnic_C,Business,2,2.52,599300,High,6,Unemployed,Medium,No,252649,Good,No,No,Primary,Medium
+App_240,2023-09-21,23,Female,University_A,Medicine,3,4.02,116974,Middle,6,Unemployed,Low,Yes,171198,Excellent,Yes,Yes,Primary,Medium
+App_241,2023-05-02,32,Male,Polytechnic_C,Medicine,2,4.4,325722,Low,1,Part-time,Medium,No,249597,Good,Yes,No,Primary,High
+App_242,2023-05-23,22,Female,University_B,Medicine,3,4.76,796925,Middle,4,Part-time,High,Yes,316621,Excellent,No,No,Secondary,Medium
+App_243,2023-12-09,35,Female,University_B,Business,1,3.77,654663,Middle,6,Part-time,Medium,No,422081,Good,No,No,Tertiary,High
+App_244,2023-09-06,18,Female,Polytechnic_C,Business,4,4.02,708015,Low,1,Unemployed,Medium,No,102221,Excellent,Yes,No,Secondary,Medium
+App_245,2023-04-20,30,Female,University_B,Social Sciences,3,2.94,130813,Low,3,Unemployed,High,No,215389,Good,No,Yes,Tertiary,Low
+App_246,2023-10-04,18,Female,University_B,Humanities,1,2.72,570248,Low,6,Unemployed,Medium,Yes,304102,Average,No,No,Tertiary,Low
+App_247,2023-03-09,20,Male,College_D,Humanities,5,2.35,527309,High,6,Part-time,Medium,No,363055,Average,Yes,No,Secondary,Medium
+App_248,2023-10-20,31,Female,College_D,Engineering,2,3.12,585593,Low,6,Part-time,Low,No,328690,Excellent,Yes,No,Secondary,Low
+App_249,2023-10-23,22,Male,Polytechnic_C,Engineering,1,2.42,427617,Middle,0,Full-time,Medium,No,96148,Good,No,No,Primary,Low
+App_250,2023-08-31,32,Other,University_A,Medicine,3,3.17,108132,High,1,Unemployed,Low,No,147736,Good,No,No,Secondary,Medium
+App_251,2023-05-05,23,Other,University_A,Social Sciences,4,3.79,573879,Middle,4,Part-time,Medium,Yes,154267,Average,No,No,Secondary,Medium
+App_252,2023-08-31,19,Male,Polytechnic_C,Business,5,3.72,951104,Middle,3,Unemployed,High,No,312485,Good,No,No,Secondary,High
+App_253,2023-07-28,26,Other,College_D,Medicine,5,3.27,644423,Low,5,Part-time,Low,Yes,290116,Good,Yes,No,Secondary,Medium
+App_254,2023-04-08,30,Female,University_B,Engineering,1,3.46,224987,Low,3,Part-time,High,No,343961,Average,No,Yes,Primary,High
+App_255,2023-02-18,28,Female,Polytechnic_C,Humanities,1,3.61,435548,Low,3,Unemployed,High,No,423539,Excellent,No,Yes,Tertiary,Low
+App_256,2023-02-19,24,Male,Polytechnic_C,Business,2,4.76,214951,Middle,3,Unemployed,Low,No,61266,Poor,No,No,Secondary,High
+App_257,2023-12-04,32,Other,University_A,Engineering,5,4.79,317508,Low,3,Part-time,Low,No,70841,Good,No,Yes,Primary,Low
+App_258,2023-08-09,28,Female,Polytechnic_C,Engineering,5,2.52,860894,Low,3,Part-time,High,No,179704,Poor,No,No,Secondary,Low
+App_259,2023-07-01,28,Male,University_A,Humanities,2,2.5,157903,Low,0,Unemployed,Medium,Yes,327566,Good,No,Yes,Primary,High
+App_260,2023-08-05,30,Male,Polytechnic_C,Social Sciences,4,2.87,987708,Low,0,Unemployed,Low,No,209869,Excellent,Yes,Yes,Secondary,High
+App_261,2023-07-30,26,Male,Polytechnic_C,Business,2,2.56,651790,High,4,Part-time,Low,Yes,224886,Good,No,No,Primary,Medium
+App_262,2023-08-28,31,Male,University_B,Engineering,3,4.53,756866,Middle,1,Unemployed,Medium,No,306865,Average,No,Yes,Secondary,Medium
+App_263,2023-01-28,26,Female,University_A,Social Sciences,3,3.86,807888,Low,5,Part-time,Low,Yes,256254,Excellent,No,Yes,Tertiary,Medium
+App_264,2023-12-11,20,Male,Polytechnic_C,Engineering,1,4.6,170936,Low,2,Unemployed,High,No,440275,Good,No,Yes,Secondary,Low
+App_265,2023-12-01,33,Female,College_D,Social Sciences,2,4.86,289499,Low,0,Unemployed,Medium,No,132315,Excellent,No,No,Tertiary,Medium
+App_266,2023-11-27,18,Male,College_D,Medicine,2,3.45,826764,Middle,2,Full-time,Medium,No,59632,Average,No,Yes,Secondary,Medium
+App_267,2023-02-20,35,Male,College_D,Medicine,1,2.59,583541,High,6,Unemployed,Low,No,231812,Average,No,No,Secondary,Medium
+App_268,2023-02-01,19,Female,University_A,Humanities,4,3.15,52693,Low,6,Full-time,Low,No,408776,Good,No,No,Primary,Medium
+App_269,2023-07-26,29,Female,Polytechnic_C,Social Sciences,2,3.68,96177,Low,4,Part-time,Medium,No,234503,Average,No,No,Secondary,Low
+App_270,2023-06-23,25,Other,Polytechnic_C,Business,5,3.96,950400,Middle,1,Unemployed,Medium,No,236320,Excellent,Yes,Yes,Secondary,Low
+App_271,2023-02-25,20,Other,University_A,Business,2,3.23,954846,Low,0,Unemployed,High,Yes,377801,Average,No,Yes,Tertiary,Medium
+App_272,2023-05-08,19,Female,University_B,Business,4,3.48,62884,High,5,Unemployed,High,No,208506,Average,No,No,Tertiary,Medium
+App_273,2023-04-09,18,Female,College_D,Business,2,4.13,306430,Low,0,Unemployed,Medium,No,173839,Excellent,No,No,Primary,Low
+App_274,2023-04-08,25,Other,University_B,Business,5,3.33,98215,Middle,5,Unemployed,Medium,Yes,312800,Average,No,No,Secondary,High
+App_275,2023-10-02,24,Female,College_D,Business,3,2.5,544681,Low,5,Part-time,Low,Yes,194639,Good,No,No,Tertiary,Low
+App_276,2023-08-18,18,Male,University_A,Engineering,3,3.7,431657,Low,1,Unemployed,Low,No,475665,Good,No,Yes,Tertiary,Medium
+App_277,2023-03-13,22,Female,College_D,Medicine,4,4.39,451583,Low,1,Unemployed,Medium,No,82510,Good,No,No,Tertiary,Low
+App_278,2023-08-05,25,Male,University_A,Engineering,4,2.66,207375,Low,5,Full-time,Medium,No,378095,Good,No,No,Tertiary,Low
+App_279,2023-04-04,22,Male,University_B,Business,5,2.1,237654,Low,2,Unemployed,High,No,185098,Good,No,No,Tertiary,High
+App_280,2023-05-23,33,Male,College_D,Medicine,3,2.67,949138,Low,2,Full-time,Low,No,252988,Average,No,Yes,Primary,Medium
+App_281,2023-08-25,21,Female,Polytechnic_C,Social Sciences,3,2.87,87081,Low,1,Unemployed,High,No,477220,Good,No,No,Primary,Low
+App_282,2023-05-08,24,Female,Polytechnic_C,Social Sciences,3,4.34,629720,High,0,Part-time,Low,No,65448,Good,No,Yes,Secondary,High
+App_283,2023-02-08,32,Female,Polytechnic_C,Humanities,3,3.7,892127,Middle,3,Part-time,High,No,340948,Excellent,No,No,Primary,Low
+App_284,2023-08-15,26,Male,Polytechnic_C,Business,5,4.32,798705,Low,4,Part-time,Medium,No,196902,Excellent,No,No,Tertiary,Low
+App_285,2023-10-09,29,Male,Polytechnic_C,Medicine,4,3.49,826644,Middle,4,Unemployed,High,No,168270,Poor,No,Yes,Tertiary,Medium
+App_286,2023-02-20,23,Female,College_D,Humanities,4,3.53,737554,Low,2,Part-time,Low,No,129538,Good,No,Yes,Tertiary,Low
+App_287,2023-01-26,21,Male,Polytechnic_C,Social Sciences,1,3.72,489740,Middle,1,Unemployed,Low,Yes,229194,Excellent,No,Yes,Secondary,Medium
+App_288,2023-11-30,23,Female,Polytechnic_C,Business,4,2.8,285421,High,0,Unemployed,Medium,No,255964,Good,No,Yes,Tertiary,Low
+App_289,2023-10-04,27,Male,University_A,Medicine,3,3.63,387433,Low,6,Part-time,High,No,394421,Good,No,No,Tertiary,Low
+App_290,2023-01-08,21,Male,University_A,Engineering,2,4.97,310322,Middle,0,Unemployed,Low,No,121964,Good,No,No,Secondary,High
+App_291,2023-02-17,18,Male,Polytechnic_C,Business,3,3.63,486476,Low,2,Full-time,Medium,No,96029,Average,Yes,Yes,Tertiary,High
+App_292,2023-05-02,27,Other,Polytechnic_C,Business,3,4.27,805276,Low,2,Unemployed,Low,No,432672,Average,Yes,No,Primary,Low
+App_293,2023-03-27,30,Male,College_D,Humanities,4,4.28,385476,Low,3,Part-time,Medium,No,250386,Good,No,No,Primary,High
+App_294,2023-07-28,30,Male,Polytechnic_C,Humanities,1,3.32,334434,Middle,5,Unemployed,Low,No,323006,Excellent,No,No,Primary,Low
+App_295,2023-09-06,24,Male,University_A,Medicine,5,2.66,916120,High,4,Unemployed,Medium,No,405464,Good,No,No,Tertiary,Medium
+App_296,2023-09-04,20,Female,University_B,Social Sciences,2,3.28,131670,Middle,4,Unemployed,Medium,No,371099,Average,No,Yes,Primary,High
+App_297,2023-04-20,25,Female,Polytechnic_C,Medicine,2,4.21,649298,High,4,Unemployed,Low,No,377955,Good,No,No,Primary,Medium
+App_298,2023-07-25,21,Male,College_D,Business,1,3.96,440917,Middle,2,Part-time,High,No,409935,Excellent,No,No,Primary,High
+App_299,2023-01-31,27,Female,Polytechnic_C,Humanities,3,2.74,175200,Low,3,Part-time,High,No,169237,Excellent,No,No,Primary,Medium
+App_300,2023-03-26,21,Male,College_D,Engineering,5,4.62,576428,Low,5,Unemployed,Medium,No,268802,Average,No,No,Tertiary,Medium
+App_301,2023-07-14,19,Male,College_D,Business,5,2.1,756033,Low,1,Unemployed,Low,Yes,176018,Excellent,No,No,Primary,Medium
+App_302,2023-01-02,29,Other,University_A,Business,5,2.79,995753,High,2,Full-time,Medium,No,350363,Good,Yes,No,Secondary,Medium
+App_303,2023-07-19,35,Other,University_A,Business,4,4.59,105230,Low,3,Part-time,High,No,130084,Excellent,No,Yes,Tertiary,Low
+App_304,2023-05-16,31,Other,College_D,Medicine,3,2.26,238056,Middle,2,Unemployed,High,Yes,273590,Good,No,Yes,Secondary,Low
+App_305,2023-08-21,29,Male,College_D,Business,2,4.6,284026,Middle,6,Unemployed,Low,No,213778,Average,No,No,Tertiary,High
+App_306,2023-05-27,20,Female,College_D,Humanities,2,2.35,893409,Middle,1,Part-time,Low,No,367387,Average,No,No,Primary,Low
+App_307,2023-08-05,34,Female,University_A,Business,3,4.44,590828,High,1,Part-time,Medium,Yes,222640,Good,No,Yes,Primary,Medium
+App_308,2023-12-23,28,Female,Polytechnic_C,Social Sciences,2,2.63,98159,Low,6,Unemployed,Low,Yes,285494,Good,No,No,Primary,Low
+App_309,2023-10-12,18,Male,Polytechnic_C,Humanities,4,4.21,470400,High,3,Unemployed,Medium,No,334286,Good,No,No,Tertiary,Low
+App_310,2023-12-05,31,Female,University_B,Humanities,5,4.07,122274,Low,0,Unemployed,Medium,No,119086,Good,No,Yes,Primary,Low
+App_311,2023-09-07,33,Male,College_D,Business,2,4.58,969591,High,1,Part-time,Medium,Yes,158400,Good,No,Yes,Secondary,Low
+App_312,2023-03-21,21,Female,College_D,Business,4,3.83,537686,Low,1,Full-time,Low,No,392083,Excellent,No,No,Secondary,High
+App_313,2023-04-08,31,Female,Polytechnic_C,Social Sciences,5,3.28,958100,Low,5,Unemployed,High,Yes,122654,Average,No,Yes,Primary,High
+App_314,2023-06-01,29,Male,University_B,Business,3,3.85,346020,Low,1,Unemployed,Low,No,354627,Average,No,Yes,Tertiary,High
+App_315,2023-04-22,32,Female,University_A,Medicine,3,4.35,861102,Low,1,Part-time,Medium,Yes,333825,Excellent,Yes,No,Tertiary,Low
+App_316,2023-01-30,22,Female,University_A,Social Sciences,4,4.44,935885,Low,5,Unemployed,Medium,Yes,408638,Average,No,No,Primary,Low
+App_317,2023-10-24,31,Male,Polytechnic_C,Business,4,4.42,375790,Middle,0,Part-time,High,Yes,469485,Average,No,No,Tertiary,High
+App_318,2023-10-05,23,Male,College_D,Business,4,3.71,393199,Low,4,Unemployed,High,Yes,156068,Good,Yes,Yes,Primary,High
+App_319,2023-02-01,34,Male,University_A,Business,2,3.6,140581,High,4,Unemployed,Medium,Yes,122409,Excellent,No,No,Primary,Medium
+App_320,2023-06-10,26,Male,University_B,Humanities,3,3.79,629958,Low,1,Part-time,Medium,No,212004,Average,No,Yes,Primary,High
+App_321,2023-01-30,35,Male,University_B,Social Sciences,2,2.51,528933,Middle,0,Unemployed,Medium,No,410989,Good,No,No,Tertiary,High
+App_322,2023-01-26,33,Female,College_D,Humanities,2,4.94,58356,Low,2,Unemployed,Medium,No,419694,Excellent,No,No,Tertiary,Low
+App_323,2023-10-27,32,Male,Polytechnic_C,Social Sciences,5,2.88,436839,Middle,5,Part-time,High,No,324624,Good,Yes,Yes,Tertiary,Low
+App_324,2023-09-02,31,Male,Polytechnic_C,Medicine,4,3.72,260418,High,5,Unemployed,Medium,No,120911,Good,No,No,Tertiary,Medium
+App_325,2023-09-15,26,Female,University_A,Business,2,4.86,355759,Low,6,Unemployed,High,Yes,275477,Average,No,No,Secondary,High
+App_326,2023-09-29,28,Male,University_A,Social Sciences,5,3.54,641194,Middle,0,Unemployed,Medium,Yes,453727,Good,No,No,Tertiary,Low
+App_327,2023-03-22,25,Female,University_A,Medicine,1,4.7,872615,Middle,3,Unemployed,Low,No,126101,Average,Yes,Yes,Tertiary,High
+App_328,2023-01-30,20,Female,University_B,Medicine,5,4.45,368672,High,5,Part-time,High,Yes,394054,Excellent,No,No,Primary,Medium
+App_329,2023-09-18,26,Female,Polytechnic_C,Social Sciences,1,2.41,825501,Middle,2,Unemployed,Medium,No,346141,Average,No,Yes,Secondary,High
+App_330,2023-02-11,32,Other,College_D,Social Sciences,1,4.25,702966,High,6,Unemployed,Medium,No,132862,Good,Yes,Yes,Secondary,Low
+App_331,2023-04-06,25,Male,University_A,Humanities,1,3.23,304367,Low,4,Unemployed,Medium,No,216459,Good,No,No,Primary,Low
+App_332,2023-02-05,32,Female,College_D,Humanities,1,2.18,536462,Middle,4,Full-time,High,No,85554,Excellent,No,No,Secondary,Medium
+App_333,2023-11-01,30,Female,College_D,Humanities,4,2.83,436162,Middle,0,Part-time,Medium,No,342206,Average,No,Yes,Secondary,Medium
+App_334,2023-02-04,28,Female,College_D,Business,2,3.97,670432,Middle,4,Unemployed,Low,No,329425,Good,No,No,Tertiary,High
+App_335,2023-12-12,18,Female,College_D,Business,2,4.1,567326,Low,0,Part-time,Low,No,427194,Average,Yes,Yes,Secondary,Medium
+App_336,2023-05-01,33,Female,University_B,Business,1,2.4,860143,Low,5,Unemployed,Low,No,112069,Good,No,Yes,Secondary,High
+App_337,2023-07-26,28,Female,University_B,Social Sciences,2,2.44,863575,Middle,0,Part-time,Low,No,146539,Good,No,No,Primary,High
+App_338,2023-03-03,23,Male,University_B,Humanities,1,2.97,254915,Middle,5,Unemployed,Medium,No,216512,Excellent,No,No,Secondary,Low
+App_339,2023-10-19,33,Male,University_B,Medicine,2,2.74,818043,High,6,Part-time,High,No,490151,Excellent,No,Yes,Tertiary,Medium
+App_340,2023-05-07,24,Male,University_A,Business,5,4.53,994183,Low,0,Part-time,Medium,Yes,126295,Good,No,No,Primary,Medium
+App_341,2023-10-24,29,Other,University_A,Business,4,3.18,623108,Low,0,Unemployed,Low,No,431199,Average,No,No,Tertiary,High
+App_342,2023-11-01,26,Male,University_B,Social Sciences,3,2.43,847423,Middle,5,Part-time,High,No,65457,Good,No,No,Tertiary,Low
+App_343,2023-01-21,28,Male,University_A,Medicine,1,3.9,884638,Middle,0,Part-time,Low,No,451308,Good,No,No,Tertiary,Medium
+App_344,2023-11-14,26,Female,Polytechnic_C,Medicine,5,3.88,307034,High,3,Part-time,Low,No,217084,Good,No,Yes,Tertiary,Medium
+App_345,2023-02-11,26,Male,University_B,Humanities,5,3.13,207880,High,3,Unemployed,Medium,Yes,267076,Good,No,No,Tertiary,Medium
+App_346,2023-08-03,35,Male,University_A,Engineering,4,2.23,56687,High,3,Part-time,Medium,Yes,265614,Good,No,No,Primary,Medium
+App_347,2023-12-03,18,Other,University_A,Engineering,4,4.38,479954,Low,0,Unemployed,Medium,No,209041,Average,Yes,Yes,Primary,Low
+App_348,2023-10-26,34,Female,College_D,Social Sciences,1,4.31,75071,Middle,4,Part-time,Low,Yes,282261,Excellent,No,No,Primary,Low
+App_349,2023-10-17,24,Female,University_B,Engineering,1,3.21,294315,Middle,2,Unemployed,High,Yes,440914,Good,Yes,No,Primary,High
+App_350,2023-09-25,20,Female,College_D,Social Sciences,5,4.25,617851,Low,3,Part-time,High,No,480806,Excellent,No,No,Secondary,Medium
+App_351,2023-06-11,25,Female,College_D,Humanities,5,4.08,413251,Low,5,Unemployed,Medium,Yes,383891,Good,No,Yes,Tertiary,Medium
+App_352,2023-05-14,31,Female,University_B,Humanities,4,4.63,716833,Low,1,Unemployed,Low,No,437102,Good,No,No,Primary,Low
+App_353,2023-04-15,33,Female,Polytechnic_C,Medicine,1,3.36,930357,Middle,1,Unemployed,Medium,No,193548,Good,No,Yes,Secondary,Low
+App_354,2023-12-09,35,Female,College_D,Social Sciences,1,3.46,777146,Middle,5,Unemployed,Medium,No,129669,Good,No,Yes,Tertiary,Low
+App_355,2023-06-10,25,Female,University_A,Medicine,5,3.75,969809,Low,5,Unemployed,High,No,458476,Good,No,No,Primary,Low
+App_356,2023-05-03,33,Other,University_A,Business,3,4.61,60060,Low,5,Part-time,High,No,148531,Excellent,No,Yes,Secondary,High
+App_357,2023-05-16,33,Male,University_A,Medicine,5,4.54,401291,High,0,Full-time,High,No,105978,Good,No,No,Secondary,High
+App_358,2023-07-22,32,Female,College_D,Engineering,3,2.28,51533,Middle,2,Unemployed,Medium,No,118967,Excellent,No,No,Primary,High
+App_359,2023-03-09,18,Male,Polytechnic_C,Humanities,1,4.92,845794,Low,3,Unemployed,High,No,146860,Good,No,Yes,Primary,Medium
+App_360,2023-12-10,20,Male,University_B,Medicine,5,3.9,739233,Low,5,Unemployed,Low,No,63735,Good,No,Yes,Tertiary,Medium
+App_361,2023-11-27,27,Male,College_D,Engineering,4,4.09,444552,Low,0,Unemployed,Low,No,449742,Good,No,Yes,Primary,High
+App_362,2023-06-03,25,Male,University_A,Social Sciences,2,4.55,940247,Low,5,Unemployed,High,No,370854,Poor,No,No,Secondary,Medium
+App_363,2023-08-23,30,Other,University_A,Medicine,1,4.39,823935,Low,4,Unemployed,Low,Yes,373457,Good,Yes,No,Secondary,Low
+App_364,2023-06-11,25,Male,University_A,Medicine,1,3.19,812540,Middle,2,Unemployed,High,No,189912,Good,Yes,Yes,Primary,High
+App_365,2023-02-07,27,Other,Polytechnic_C,Engineering,5,4.9,372448,Low,4,Part-time,High,No,367511,Good,No,Yes,Secondary,Medium
+App_366,2023-01-05,29,Female,Polytechnic_C,Medicine,2,4.47,158998,High,4,Unemployed,High,No,347293,Excellent,No,No,Tertiary,Medium
+App_367,2023-08-23,33,Male,University_A,Business,2,3.48,265161,High,5,Part-time,High,No,371054,Good,No,Yes,Primary,Medium
+App_368,2023-11-15,35,Male,College_D,Humanities,2,2.97,605550,Middle,1,Unemployed,Low,No,171064,Average,No,Yes,Tertiary,Medium
+App_369,2023-10-16,34,Other,University_B,Engineering,5,2.85,299736,High,3,Part-time,Low,No,362664,Average,No,No,Tertiary,High
+App_370,2023-02-21,29,Other,Polytechnic_C,Social Sciences,5,3.64,490208,Low,6,Unemployed,Medium,No,171730,Average,No,No,Primary,Low
+App_371,2023-02-07,31,Female,Polytechnic_C,Social Sciences,3,2.39,565929,Low,0,Unemployed,Low,No,171064,Excellent,No,No,Tertiary,Medium
+App_372,2023-10-03,35,Male,Polytechnic_C,Engineering,3,4.56,112804,Middle,4,Unemployed,High,No,410383,Good,No,Yes,Tertiary,Medium
+App_373,2023-04-20,28,Male,Polytechnic_C,Humanities,3,4.36,199289,Middle,5,Part-time,High,No,63675,Good,No,Yes,Primary,Medium
+App_374,2023-09-17,29,Female,University_B,Social Sciences,4,4.68,796221,Low,4,Part-time,Low,No,238356,Excellent,No,Yes,Secondary,Medium
+App_375,2023-05-16,32,Other,University_A,Business,1,4.29,343418,Middle,0,Unemployed,Medium,No,91668,Good,No,No,Secondary,Low
+App_376,2023-03-09,26,Male,University_B,Humanities,3,2.14,147545,Middle,2,Full-time,High,No,410784,Good,No,No,Tertiary,Low
+App_377,2023-06-28,27,Male,Polytechnic_C,Humanities,4,3.88,96032,Low,0,Unemployed,Low,No,458853,Good,No,Yes,Tertiary,Low
+App_378,2023-02-05,26,Other,University_A,Medicine,4,4.51,292716,Low,6,Part-time,Low,No,299876,Good,No,No,Tertiary,Low
+App_379,2023-05-06,25,Female,Polytechnic_C,Medicine,5,2.05,990874,High,0,Unemployed,Low,Yes,120300,Good,No,Yes,Secondary,Medium
+App_380,2023-07-09,21,Male,Polytechnic_C,Engineering,2,4.79,936575,Low,3,Unemployed,Medium,No,313362,Good,No,No,Primary,Low
+App_381,2023-05-26,24,Female,University_B,Humanities,2,2.47,595007,Low,1,Unemployed,High,No,493620,Average,No,Yes,Secondary,Low
+App_382,2023-03-22,28,Female,College_D,Humanities,3,3.37,483121,Middle,4,Part-time,Low,No,367043,Good,Yes,Yes,Primary,Medium
+App_383,2023-08-13,21,Female,Polytechnic_C,Medicine,1,4.98,784891,Low,1,Part-time,Low,No,295767,Good,No,Yes,Tertiary,Medium
+App_384,2023-10-06,35,Female,College_D,Humanities,1,3.28,989081,Low,6,Part-time,Medium,No,423303,Excellent,No,Yes,Tertiary,Low
+App_385,2023-12-27,23,Male,Polytechnic_C,Social Sciences,1,4.99,440586,Middle,2,Unemployed,High,No,390560,Good,No,No,Tertiary,Medium
+App_386,2023-06-04,24,Female,University_A,Engineering,4,4.73,530728,Low,6,Part-time,High,No,246062,Excellent,No,No,Primary,Medium
+App_387,2023-11-10,24,Female,College_D,Social Sciences,4,4.65,834229,Middle,4,Unemployed,Low,Yes,146456,Good,No,No,Tertiary,Medium
+App_388,2023-12-01,33,Female,University_A,Business,4,2.91,139026,Low,1,Part-time,Medium,Yes,496761,Average,No,Yes,Tertiary,Low
+App_389,2023-09-28,26,Male,University_B,Social Sciences,5,4.62,658982,Middle,2,Full-time,Medium,Yes,253140,Average,No,Yes,Primary,High
+App_390,2023-01-05,34,Other,University_B,Social Sciences,4,4.63,150219,Middle,5,Part-time,Low,Yes,307659,Average,No,No,Tertiary,High
+App_391,2023-12-08,27,Other,Polytechnic_C,Engineering,1,2.28,579979,Middle,3,Part-time,High,Yes,298432,Good,No,No,Primary,Low
+App_392,2023-10-11,21,Female,University_B,Social Sciences,1,3.08,189999,Low,2,Full-time,Medium,No,122096,Good,No,No,Secondary,High
+App_393,2023-06-03,24,Female,University_A,Humanities,2,2.25,718169,High,1,Unemployed,Medium,Yes,135871,Good,No,No,Primary,Medium
+App_394,2023-12-06,27,Male,University_A,Engineering,1,3.99,909793,Low,0,Part-time,Low,No,151323,Good,No,No,Tertiary,High
+App_395,2023-02-23,25,Female,Polytechnic_C,Humanities,4,3.95,463507,Low,4,Unemployed,High,Yes,168632,Good,No,No,Secondary,High
+App_396,2023-03-10,29,Male,University_A,Social Sciences,4,2.16,128465,Low,3,Unemployed,Medium,No,66897,Good,No,No,Tertiary,Medium
+App_397,2023-05-16,23,Male,Polytechnic_C,Medicine,3,3.88,670647,Low,1,Unemployed,Low,No,264218,Average,Yes,No,Primary,Low
+App_398,2023-03-01,27,Female,College_D,Engineering,5,4.18,645403,Low,5,Unemployed,Low,No,450838,Good,No,No,Primary,Low
+App_399,2023-02-24,18,Female,University_A,Medicine,1,4.27,115308,Low,3,Unemployed,Medium,No,57871,Average,No,No,Tertiary,Medium
+App_400,2023-10-11,35,Male,University_B,Humanities,5,3.29,506112,Low,2,Unemployed,High,No,191483,Good,No,No,Secondary,High

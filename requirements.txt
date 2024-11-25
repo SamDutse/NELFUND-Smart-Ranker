@@ -1,0 +1,4 @@
+Streamlit
+joblib
+Scikit-learn
+cloudpickle

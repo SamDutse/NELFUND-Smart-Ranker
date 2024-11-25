@@ -1,0 +1,1001 @@
+Attendance_Rate,Grades,Distance_to_School,Socioeconomic_Status,Parent_Education_Level,School_Resources,Behavioral_Issues,Loan_Approval_Need,Priority_Score
+88,80,28.0,Middle,Postgraduate,High,Yes,Low,45.6
+78,84,5.8,Low,No High School,Low,No,Low,66.42
+64,57,18.8,Middle,High School,Low,No,Low,35.12
+92,86,0.5,High,Bachelor's,Low,No,High,56.95
+57,75,40.9,Low,Postgraduate,Medium,No,Low,53.01
+70,86,6.4,Low,Bachelor's,Low,No,High,59.76
+88,61,14.2,Low,Bachelor's,Low,No,Medium,54.38
+68,73,0.9,Middle,Bachelor's,Low,No,Low,44.51
+72,86,21.6,Low,High School,Low,No,Medium,58.84
+60,47,42.0,Low,Bachelor's,Low,No,Medium,37.6
+60,79,19.6,Low,No High School,Medium,No,Medium,62.64
+73,88,9.0,Middle,Postgraduate,Medium,Yes,Low,46.2
+85,83,37.7,Low,High School,Medium,No,Low,64.93
+89,58,39.4,Middle,High School,Low,No,Low,40.96
+73,81,8.7,High,No High School,Medium,No,Low,58.43
+52,80,38.5,Low,Bachelor's,Medium,Yes,Low,43.75
+71,76,47.4,Middle,No High School,Low,No,Low,46.96
+51,45,8.3,Low,Bachelor's,Medium,No,Low,42.47
+73,91,38.5,Middle,Bachelor's,Low,No,Low,49.45
+93,65,35.4,Middle,No High School,Medium,No,Low,55.36
+79,73,23.7,Middle,Bachelor's,Low,No,Low,45.53
+87,98,2.9,Low,Bachelor's,High,Yes,High,65.01
+51,95,3.7,Low,High School,Low,Yes,Low,47.93
+70,98,42.6,Low,No High School,Medium,No,Medium,70.94
+82,84,49.5,Low,No High School,Medium,No,Low,68.25
+61,45,33.8,Low,No High School,Medium,No,High,47.92
+71,76,22.3,Low,No High School,Low,No,Low,59.47
+93,96,32.4,Low,Postgraduate,Low,No,High,68.06
+74,72,29.7,Low,No High School,Medium,No,Medium,63.03
+98,92,19.2,Middle,Bachelor's,Low,Yes,Low,49.28
+76,61,3.3,Low,No High School,Low,Yes,High,46.87
+91,60,41.1,Low,High School,Medium,No,Medium,57.19
+77,45,18.6,Low,Bachelor's,Medium,No,Low,49.24
+65,45,40.9,Low,Bachelor's,Low,No,Medium,38.41
+64,94,12.6,High,No High School,Low,No,High,55.54
+96,87,0.1,Low,High School,Low,No,Medium,68.59
+100,43,7.9,Middle,High School,Medium,No,Low,46.41
+93,69,23.4,High,No High School,Medium,Yes,Medium,48.16
+52,50,47.2,Middle,No High School,Medium,Yes,Medium,25.88
+86,69,5.1,Middle,High School,High,No,High,52.89
+100,70,42.7,Middle,High School,Low,No,Medium,48.73
+56,63,26.4,High,Bachelor's,Low,No,Low,34.36
+70,94,41.3,Middle,No High School,Low,No,High,54.47
+58,48,14.9,Low,High School,Low,No,Low,40.11
+88,94,42.0,Middle,High School,High,No,Low,59.8
+67,42,38.6,Low,Bachelor's,Medium,No,Medium,43.04
+53,90,11.5,Middle,Bachelor's,Low,No,Medium,45.75
+74,70,6.6,Low,High School,Low,Yes,Low,44.54
+63,79,43.4,Low,Bachelor's,Medium,No,Medium,56.16
+99,76,48.2,Low,No High School,Medium,No,Low,70.28
+58,75,1.6,Low,High School,Low,No,Medium,52.24
+75,63,36.6,Low,No High School,High,No,High,59.04
+51,70,45.5,Low,High School,Medium,No,Low,48.75
+69,45,42.9,Low,Bachelor's,Low,Yes,Low,29.41
+77,41,48.2,Low,Bachelor's,Medium,Yes,Low,34.68
+96,59,38.0,Middle,No High School,Low,No,High,48.6
+56,67,22.1,Low,High School,High,No,Low,51.39
+93,50,15.6,Low,High School,High,No,Low,56.34
+57,43,16.0,Middle,No High School,Medium,No,Medium,37.7
+96,54,36.2,Low,No High School,Medium,Yes,Medium,51.78
+84,45,37.3,Low,No High School,Low,No,Low,49.47
+63,93,10.0,Middle,No High School,High,No,Medium,60.1
+66,88,43.4,Middle,No High School,Medium,No,Low,55.66
+85,69,35.7,Low,No High School,Medium,No,High,64.53
+99,95,28.1,Low,No High School,High,Yes,Low,69.89
+89,77,23.6,High,Bachelor's,High,No,Low,55.14
+53,90,27.2,Middle,High School,Medium,Yes,Medium,39.18
+51,96,8.0,Low,Postgraduate,Low,No,Low,57.9
+55,41,10.2,Middle,High School,High,Yes,Medium,21.88
+91,54,4.6,Low,Bachelor's,Medium,No,Low,58.44
+53,50,7.7,Low,Bachelor's,High,No,Low,45.13
+78,47,22.7,Low,High School,Medium,Yes,Medium,39.93
+67,65,26.5,Middle,High School,Low,No,Medium,38.45
+75,90,0.9,Low,Bachelor's,Low,No,Medium,63.41
+93,84,39.8,Middle,No High School,Medium,No,Low,62.52
+83,83,14.7,Low,No High School,Medium,Yes,Low,61.63
+59,44,45.6,Low,High School,Low,No,Low,35.74
+85,45,48.4,Low,High School,Medium,Yes,Low,38.66
+63,65,9.3,Middle,No High School,Low,No,Medium,43.97
+80,93,23.1,Low,Postgraduate,Medium,No,High,68.89
+97,43,0.1,Low,High School,Low,Yes,Low,41.29
+64,58,29.9,Middle,High School,Low,No,Low,34.41
+57,59,30.4,Low,Postgraduate,Low,Yes,Low,32.66
+63,72,12.4,High,High School,Low,Yes,Low,31.46
+72,59,27.9,Low,Postgraduate,Low,No,Low,47.41
+89,88,11.3,Middle,High School,Low,No,High,55.77
+70,51,8.0,Low,No High School,Low,No,Medium,50.6
+65,86,32.6,High,Bachelor's,High,Yes,High,40.64
+94,40,16.3,Low,High School,Medium,Yes,High,42.57
+67,65,29.5,Low,Bachelor's,Low,No,Medium,48.15
+96,53,21.7,Low,Postgraduate,High,No,Medium,57.83
+73,77,49.2,Low,Bachelor's,Low,No,Low,52.78
+75,76,7.5,Low,High School,Medium,Yes,Medium,52.15
+74,50,23.2,High,Bachelor's,Medium,No,High,39.88
+94,75,34.0,Low,High School,Low,No,Low,59.8
+90,52,19.8,Middle,High School,Low,No,High,40.82
+78,82,48.7,Middle,Bachelor's,Low,Yes,Low,36.33
+64,42,36.1,Middle,No High School,Low,No,High,32.39
+94,72,32.8,Low,Bachelor's,Medium,No,High,63.72
+50,45,37.9,Low,Bachelor's,Low,No,Medium,34.21
+74,89,47.6,Middle,Bachelor's,Low,No,Medium,48.04
+56,95,45.4,High,High School,Low,Yes,Medium,35.26
+58,49,36.2,Low,Bachelor's,Low,Yes,High,28.38
+73,44,37.5,Low,High School,Medium,No,High,45.75
+50,62,7.3,Low,Bachelor's,Low,No,Medium,44.07
+93,49,5.1,High,No High School,Medium,No,Medium,51.99
+57,83,28.5,Low,No High School,Low,No,Medium,57.45
+73,41,0.9,Low,No High School,Low,Yes,High,38.21
+60,52,24.1,Middle,High School,Medium,No,Medium,36.39
+100,79,10.5,Low,High School,Low,No,High,65.55
+66,41,17.3,Low,Bachelor's,Medium,No,Medium,44.47
+57,59,38.8,Middle,High School,Medium,No,Low,36.82
+84,40,47.1,High,High School,Low,No,Low,31.49
+84,76,3.6,Low,No High School,Low,No,Medium,65.24
+82,48,26.7,Low,High School,Low,No,Low,46.13
+54,56,44.1,Low,High School,Low,Yes,Low,29.19
+91,48,4.1,Low,No High School,Low,No,Medium,56.09
+88,50,41.2,Middle,No High School,Low,No,Low,42.28
+90,54,17.9,Low,No High School,Low,Yes,Low,46.81
+77,63,16.1,Low,No High School,Medium,No,Medium,61.69
+56,77,48.9,Low,High School,Medium,Yes,High,42.71
+58,94,10.0,Low,No High School,Medium,No,Medium,69.0
+57,74,34.7,Low,Bachelor's,Low,No,High,48.23
+61,69,41.1,Middle,Bachelor's,Low,No,Medium,36.79
+83,70,2.1,Low,High School,Medium,No,Low,62.69
+82,88,33.5,Middle,Postgraduate,Medium,No,Medium,56.45
+97,44,47.6,Middle,High School,Medium,Yes,Medium,31.94
+72,99,6.2,Low,High School,Low,No,Low,65.58
+73,83,44.8,Low,Postgraduate,Medium,No,Low,60.62
+86,89,29.7,Low,No High School,Medium,No,Medium,73.43
+84,53,30.8,Low,Postgraduate,Low,No,Low,48.32
+93,92,30.6,Low,No High School,Low,No,Medium,71.64
+89,95,14.9,Low,High School,Medium,No,Low,73.21
+71,50,46.8,Low,No High School,Low,Yes,Medium,36.62
+76,48,47.4,Middle,Bachelor's,Low,Yes,Medium,22.26
+84,73,31.3,Low,High School,Medium,No,Low,61.27
+50,51,39.2,Middle,Bachelor's,High,No,Low,31.48
+84,74,30.6,Low,No High School,Low,Yes,Medium,51.74
+86,74,24.2,Middle,No High School,Low,Yes,High,42.98
+96,40,33.0,Low,No High School,Low,No,High,51.5
+63,79,27.7,Low,No High School,Medium,Yes,Medium,52.73
+52,61,29.9,Middle,Postgraduate,Low,No,Medium,32.01
+50,99,39.2,Low,No High School,High,Yes,Low,55.68
+54,68,24.0,Low,Bachelor's,Low,No,Low,46.0
+75,47,2.0,High,Bachelor's,Low,No,Low,36.1
+63,50,8.2,Low,No High School,Medium,Yes,Medium,43.08
+88,80,21.9,Low,High School,Medium,No,Low,66.21
+76,76,36.2,Middle,No High School,Low,No,Low,49.58
+58,53,29.7,Middle,No High School,Low,No,Medium,35.63
+64,99,32.5,Middle,No High School,High,Yes,Medium,50.55
+64,69,24.0,Low,High School,Low,Yes,Low,39.4
+75,74,30.8,Middle,High School,Medium,Yes,Low,39.02
+91,60,16.5,Low,High School,Low,No,Medium,54.65
+62,76,23.5,Middle,High School,Medium,Yes,Medium,36.65
+100,44,37.2,High,No High School,Medium,No,Medium,48.88
+81,58,43.6,Middle,High School,Low,No,Low,38.14
+88,98,21.7,Middle,Bachelor's,Medium,Yes,Medium,53.43
+98,53,2.2,Low,No High School,Low,No,High,60.38
+81,65,8.1,Middle,No High School,Low,No,Low,49.49
+53,43,1.0,Middle,Bachelor's,Medium,No,High,33.0
+79,64,32.7,Low,No High School,Low,No,Low,56.03
+86,84,16.6,Middle,High School,Medium,Yes,Low,47.74
+72,81,27.1,Low,No High School,Low,No,Medium,61.29
+88,64,24.7,Middle,No High School,Low,Yes,Low,39.53
+94,57,4.1,Middle,No High School,Low,No,Low,50.59
+64,79,20.2,Middle,No High School,Low,No,Medium,48.78
+92,47,11.0,Low,High School,Low,No,Medium,50.3
+78,78,20.9,Low,High School,Medium,Yes,High,52.51
+85,79,10.2,Low,Bachelor's,High,No,Medium,66.08
+62,53,42.0,High,Bachelor's,Medium,Yes,Low,25.6
+81,71,8.7,Low,High School,Low,No,Medium,56.83
+56,90,48.0,Low,Bachelor's,Low,No,Medium,53.0
+100,100,20.8,Middle,No High School,Low,No,High,67.92
+71,77,42.3,Low,High School,Low,Yes,High,42.87
+77,72,31.4,Middle,Bachelor's,Medium,Yes,High,38.76
+51,62,36.8,Middle,No High School,Low,No,Medium,36.42
+91,54,38.4,Middle,High School,Low,No,Medium,40.06
+94,72,25.2,Low,No High School,High,No,Low,69.48
+55,64,27.2,Low,High School,Low,Yes,High,34.38
+77,56,25.7,Low,Bachelor's,Low,No,Low,47.93
+77,72,29.4,Low,Bachelor's,Low,Yes,Low,43.96
+93,86,1.5,Low,Bachelor's,Low,Yes,Low,57.15
+93,94,19.8,Low,Bachelor's,Medium,No,Medium,73.52
+69,41,30.3,Middle,High School,Low,Yes,Medium,19.07
+79,53,29.9,Middle,High School,Low,No,Medium,36.91
+60,92,39.6,Low,No High School,Low,No,High,60.84
+77,79,32.8,Middle,High School,Low,No,High,46.42
+74,79,49.6,High,High School,Low,No,Low,43.84
+88,90,14.2,Middle,Postgraduate,Medium,Yes,Low,50.98
+82,78,18.0,Middle,High School,Medium,No,High,54.0
+50,90,19.2,Low,High School,Medium,No,High,59.08
+76,45,23.3,Low,High School,Low,No,Medium,43.47
+62,45,41.8,Low,High School,Medium,No,Medium,42.42
+90,42,11.8,Low,Bachelor's,Medium,No,Low,52.62
+52,46,38.8,High,No High School,Low,No,High,30.12
+88,90,20.3,Middle,High School,Medium,No,Medium,60.37
+55,47,30.1,Low,Bachelor's,Low,Yes,Medium,27.29
+57,81,31.6,Low,High School,Low,Yes,Low,41.34
+76,91,18.6,Middle,No High School,Medium,No,High,62.34
+58,54,25.6,Low,High School,Low,Yes,Medium,31.44
+86,86,20.7,Low,Bachelor's,Medium,No,Low,68.13
+82,68,3.5,Middle,No High School,Low,No,Medium,51.45
+100,72,21.9,Low,Bachelor's,Medium,No,Medium,66.61
+91,91,4.9,Low,Bachelor's,High,No,Medium,73.21
+93,69,20.3,Low,High School,Medium,No,Medium,63.47
+73,78,29.6,Middle,Postgraduate,Low,Yes,Medium,35.14
+64,66,29.0,Low,Bachelor's,Low,No,High,47.7
+81,75,33.1,Low,Bachelor's,Low,Yes,Low,45.99
+81,68,4.8,Low,Bachelor's,Low,No,Low,56.02
+73,77,32.6,Low,No High School,Low,Yes,Low,49.44
+90,96,15.6,Low,No High School,Medium,No,Medium,78.84
+98,72,20.0,Middle,High School,Medium,No,Medium,56.2
+98,100,42.9,Low,No High School,High,No,High,80.11
+61,76,0.5,Middle,High School,Low,No,Medium,43.65
+88,66,29.4,Low,Bachelor's,Low,No,Medium,54.86
+51,94,29.9,Low,Bachelor's,Low,Yes,High,44.91
+52,72,19.8,Low,High School,High,No,Low,52.42
+98,43,11.9,Low,Bachelor's,Medium,Yes,High,45.41
+86,61,11.7,Low,Bachelor's,Medium,No,Medium,59.03
+98,41,44.2,Low,High School,High,Yes,Medium,41.38
+66,49,22.1,Low,No High School,Medium,No,Medium,52.19
+98,44,16.5,Middle,High School,Low,No,Medium,40.35
+51,98,22.4,Low,Bachelor's,Low,Yes,Low,47.26
+51,49,33.5,Middle,High School,Medium,No,Medium,31.55
+77,72,7.3,High,High School,Low,No,Medium,46.17
+72,93,22.5,Low,No High School,Low,No,High,66.55
+86,77,29.4,Low,Bachelor's,High,No,Medium,63.66
+81,52,47.4,Low,Bachelor's,High,No,High,50.36
+82,70,12.6,Low,Bachelor's,Medium,Yes,Medium,51.34
+50,86,18.0,Low,Postgraduate,Medium,No,Medium,57.6
+68,75,19.0,Middle,Bachelor's,Medium,No,Medium,48.5
+51,84,30.3,Low,Postgraduate,Low,No,Medium,50.87
+93,63,17.8,Low,Postgraduate,Low,No,High,56.32
+75,91,26.7,Middle,Bachelor's,Medium,No,Medium,56.23
+81,95,39.1,Low,High School,Medium,Yes,Medium,58.39
+55,54,35.3,Middle,No High School,Low,No,Low,34.57
+81,68,22.3,Low,High School,High,Yes,Medium,49.27
+53,47,43.2,Low,High School,Low,No,Low,35.38
+60,44,27.9,Low,No High School,Low,No,Medium,42.81
+66,68,27.0,Low,No High School,Medium,No,Low,59.3
+87,86,1.7,High,Postgraduate,Low,No,Low,55.33
+73,43,49.3,Low,Bachelor's,Low,No,Low,39.17
+54,51,6.1,High,Bachelor's,Low,No,Low,30.99
+83,84,11.6,Low,High School,Medium,Yes,Low,57.34
+55,41,2.6,Low,No High School,Low,No,High,42.64
+71,66,32.0,Low,No High School,Medium,Yes,Medium,49.5
+60,70,11.2,Low,No High School,Medium,No,Medium,59.88
+97,90,9.0,High,No High School,Low,Yes,Medium,54.2
+65,90,4.4,Low,No High School,High,Yes,Low,60.06
+82,75,5.2,Low,Postgraduate,Low,No,High,59.08
+58,75,29.2,Low,Bachelor's,High,Yes,Low,44.48
+55,65,34.4,Low,No High School,Medium,No,Low,54.06
+65,82,19.9,Low,No High School,High,Yes,Medium,55.31
+78,66,24.0,Low,High School,Low,No,Low,52.4
+52,44,34.3,Middle,No High School,Low,No,Medium,29.77
+69,59,0.9,Low,Postgraduate,Low,Yes,Low,39.21
+85,50,16.2,Low,High School,Low,No,Medium,48.88
+68,49,48.7,Low,High School,Medium,No,Medium,45.13
+75,79,29.0,Low,No High School,Low,Yes,Low,51.2
+52,77,12.7,High,No High School,Medium,No,Medium,50.13
+68,45,26.1,Low,High School,Low,No,Low,40.79
+69,47,17.1,Low,Bachelor's,Low,No,Medium,42.79
+81,62,26.6,Middle,High School,Medium,No,Low,46.44
+56,86,6.3,Low,No High School,Low,Yes,Medium,50.57
+90,65,6.6,Low,High School,Medium,No,Medium,62.34
+82,85,7.2,High,High School,Medium,No,Low,57.88
+89,82,47.0,Middle,Bachelor's,Medium,No,High,54.8
+88,51,36.6,High,No High School,Low,Yes,High,33.14
+67,65,8.1,Low,No High School,Medium,No,Medium,60.29
+89,52,9.4,Low,High School,High,No,Medium,56.56
+50,79,36.5,Low,High School,Medium,Yes,Low,42.95
+60,57,7.8,Low,High School,Low,No,Medium,45.02
+77,64,11.7,Middle,High School,Medium,No,Low,47.53
+74,72,48.2,Low,High School,Medium,No,Low,56.18
+99,86,12.8,Middle,Bachelor's,Medium,No,High,62.82
+72,79,33.1,Middle,High School,Low,No,Medium,44.89
+80,99,48.9,Low,Postgraduate,Low,No,Medium,63.71
+79,82,18.7,Low,High School,Medium,Yes,Low,54.63
+91,51,0.9,Middle,Postgraduate,Low,No,Medium,42.61
+84,83,12.2,Low,Bachelor's,Medium,Yes,Low,57.18
+56,75,41.5,Middle,No High School,Low,No,Low,42.65
+65,87,43.2,Low,Bachelor's,Medium,Yes,Low,49.98
+75,43,38.4,Low,No High School,Low,Yes,Medium,35.86
+97,44,5.7,Low,Postgraduate,Low,No,Medium,51.13
+98,95,39.8,High,High School,High,No,Low,63.42
+51,76,45.9,Low,No High School,Medium,No,Medium,56.11
+50,47,30.0,Middle,High School,Medium,Yes,Low,20.8
+97,81,47.0,Low,Postgraduate,Low,Yes,Medium,51.8
+61,88,41.3,Middle,No High School,Medium,No,High,54.37
+54,67,33.3,Middle,High School,Medium,No,Medium,39.67
+86,70,28.9,Low,Bachelor's,Medium,No,High,60.91
+81,97,17.4,Low,Bachelor's,Low,Yes,High,56.36
+58,48,8.0,Middle,High School,Medium,No,Medium,35.8
+90,93,30.2,Low,No High School,Medium,No,Medium,76.18
+84,90,15.9,Middle,No High School,High,No,High,64.61
+68,68,43.3,Low,High School,Low,No,Low,48.27
+97,53,49.7,Middle,High School,Medium,Yes,Low,35.33
+65,79,37.6,Middle,Postgraduate,Medium,No,High,47.34
+52,80,4.5,High,No High School,Low,No,Medium,47.15
+69,61,14.4,Low,High School,Low,No,Low,48.66
+73,50,5.5,Low,No High School,Low,No,Medium,51.35
+82,62,32.5,Low,No High School,Low,No,Medium,56.15
+73,40,38.3,Low,High School,Low,Yes,Medium,29.07
+60,85,46.3,Low,High School,Medium,Yes,Medium,47.37
+98,76,21.9,Low,High School,Medium,No,Medium,67.61
+57,60,45.1,Middle,Postgraduate,Medium,No,Medium,36.59
+85,65,43.9,Low,High School,High,Yes,Medium,47.11
+87,85,15.9,Low,Postgraduate,Low,No,Medium,63.51
+89,75,43.4,Middle,Bachelor's,Low,No,Medium,47.36
+69,93,18.8,Low,High School,Medium,Yes,Medium,56.02
+84,62,14.8,Low,Bachelor's,Low,Yes,Low,43.52
+97,96,32.5,High,High School,Low,Yes,Medium,49.25
+74,40,16.4,High,No High School,Low,Yes,High,26.56
+84,93,31.5,Low,Bachelor's,Low,Yes,Low,54.25
+74,94,30.5,Low,No High School,Medium,No,Low,71.75
+78,90,28.2,Middle,High School,Low,No,Medium,51.58
+67,79,19.0,Low,Bachelor's,Low,No,High,54.8
+95,54,27.4,Low,No High School,Low,No,Low,57.36
+67,60,29.8,Low,No High School,Medium,No,Low,56.12
+51,86,27.3,Low,Postgraduate,Low,No,Low,51.97
+84,48,22.2,Low,High School,Medium,No,Medium,52.18
+65,92,0.7,Low,No High School,Low,No,Low,66.23
+90,48,29.4,Middle,High School,Low,No,Low,38.26
+85,49,8.4,High,High School,Medium,No,Medium,44.26
+82,91,32.1,Low,High School,Low,No,High,62.79
+53,96,38.0,Middle,Postgraduate,Low,Yes,Medium,35.5
+82,92,25.0,Middle,High School,Low,No,Low,53.9
+63,65,27.1,Low,No High School,High,No,Medium,57.19
+70,80,47.6,Low,Bachelor's,Low,Yes,High,43.24
+97,74,42.4,Middle,Bachelor's,Medium,No,Medium,54.46
+69,91,45.7,Low,No High School,Low,No,High,62.53
+57,64,40.7,Middle,No High School,Low,No,High,38.63
+56,65,5.4,Low,No High School,Low,No,Low,52.26
+52,50,7.4,High,High School,High,Yes,Medium,24.86
+66,77,26.3,Low,High School,Low,No,Low,52.97
+82,41,12.3,Low,High School,Low,No,Medium,44.77
+97,46,23.8,Middle,Postgraduate,Low,No,Low,40.12
+61,57,19.7,Low,Bachelor's,Low,No,Low,44.13
+100,66,27.5,Low,No High School,Low,No,High,63.65
+71,73,37.3,Low,No High School,Medium,No,Low,61.77
+71,66,35.8,Low,High School,Low,No,High,49.12
+95,56,26.1,Low,No High School,Low,No,Low,58.29
+79,82,41.1,High,High School,Medium,No,Low,52.39
+87,98,21.5,Low,Bachelor's,Low,No,High,68.15
+87,83,44.8,Middle,No High School,Low,No,Medium,54.82
+94,98,3.6,Middle,High School,Low,Yes,Medium,52.04
+100,90,47.7,High,Bachelor's,Medium,No,Low,61.23
+57,93,32.7,Low,High School,Low,No,Medium,56.03
+76,63,19.0,Middle,No High School,Low,No,Medium,46.1
+76,64,9.9,Low,High School,Low,No,Medium,52.41
+83,46,24.0,Middle,No High School,Medium,Yes,Medium,35.9
+70,91,9.7,Middle,Postgraduate,Low,No,High,51.43
+79,45,8.3,Middle,No High School,Medium,Yes,Medium,35.87
+82,92,30.9,Low,High School,Medium,No,High,68.31
+77,63,26.2,Middle,High School,Medium,Yes,Medium,35.68
+96,72,33.5,Low,Postgraduate,Low,No,Medium,59.25
+82,88,46.5,Middle,No High School,Low,Yes,Low,45.15
+54,68,26.6,High,No High School,Low,No,Low,40.74
+97,82,29.0,Low,No High School,Low,No,High,69.0
+68,61,4.5,High,No High School,Low,No,Low,44.35
+53,65,35.9,Low,No High School,Medium,No,Low,53.31
+84,67,20.0,Low,High School,Low,Yes,Low,45.0
+98,89,48.8,Low,No High School,Low,No,Low,70.12
+66,60,41.2,Low,No High School,Medium,No,High,54.68
+93,88,26.1,Middle,Bachelor's,Medium,No,High,60.49
+77,46,6.2,Low,No High School,Low,No,Medium,50.88
+79,56,43.0,Low,No High School,Medium,No,Low,56.8
+78,59,40.0,High,No High School,Low,No,Medium,43.0
+95,80,9.2,Middle,Postgraduate,Medium,No,Medium,59.58
+55,88,14.8,Middle,No High School,Medium,Yes,High,45.22
+84,59,39.7,Middle,Bachelor's,Medium,No,Medium,44.83
+90,93,9.3,Middle,Bachelor's,Medium,No,Low,63.27
+86,61,45.9,Low,No High School,Low,Yes,Medium,45.61
+73,67,21.2,Low,Postgraduate,Low,No,High,51.58
+78,100,4.4,Middle,No High School,Medium,No,Medium,67.96
+98,79,40.8,Low,No High School,Low,No,Medium,66.92
+95,88,18.7,Middle,Bachelor's,Medium,No,Low,61.83
+80,46,26.3,Low,Bachelor's,Low,No,Medium,44.77
+84,40,5.6,Low,High School,Low,Yes,Medium,35.64
+82,71,0.1,Low,No High School,Low,No,Low,62.99
+70,52,31.9,Middle,High School,Low,No,Medium,33.61
+81,69,25.8,Low,Bachelor's,Medium,Yes,Low,49.32
+72,62,29.7,Middle,No High School,Medium,Yes,Low,38.43
+82,90,39.7,Low,No High School,Medium,No,Low,71.63
+52,98,32.3,Low,No High School,Medium,No,Low,66.57
+67,95,8.7,Middle,No High School,Medium,No,Medium,62.23
+74,58,18.0,Middle,Bachelor's,Medium,Yes,Low,33.6
+91,71,45.3,Low,High School,Low,Yes,Low,46.17
+80,69,38.5,Middle,Postgraduate,Medium,No,High,47.75
+52,68,27.8,Low,No High School,Low,No,Medium,50.02
+89,88,12.8,Low,Bachelor's,Low,No,Medium,65.62
+95,84,15.1,Low,No High School,Medium,Yes,Medium,65.59
+73,68,36.6,Middle,No High School,Low,No,Medium,45.44
+99,69,42.6,Middle,No High School,Low,No,Low,53.04
+81,55,33.6,Low,No High School,Low,Yes,High,42.94
+96,79,40.5,Middle,High School,Low,No,Low,51.35
+71,58,38.3,Low,Postgraduate,High,No,Medium,50.67
+72,57,7.5,Low,High School,Low,No,Low,48.65
+51,40,21.2,Low,No High School,Low,No,Medium,39.18
+76,53,7.6,Low,No High School,Low,No,Medium,53.24
+91,90,11.8,Low,No High School,Low,No,Medium,72.12
+51,86,43.5,Low,High School,High,No,Low,55.35
+75,89,23.6,Middle,Bachelor's,Low,Yes,Medium,40.74
+66,41,26.8,Low,Postgraduate,Medium,No,High,43.52
+89,93,8.9,Low,No High School,Medium,No,High,78.01
+82,67,15.6,Low,High School,High,No,Low,59.84
+58,88,11.5,Low,High School,Medium,Yes,Low,51.45
+92,89,10.3,Low,High School,Medium,Yes,High,62.17
+97,69,31.9,Middle,High School,Low,No,Medium,48.51
+88,77,12.8,Low,High School,Low,No,Medium,60.92
+78,90,31.6,Middle,High School,Low,No,High,51.24
+91,43,2.9,Middle,No High School,Medium,No,High,49.21
+75,40,7.1,Low,Bachelor's,Low,No,Medium,42.79
+84,47,13.7,Middle,No High School,Low,Yes,Medium,32.63
+99,68,29.9,Low,High School,Low,Yes,Low,48.91
+74,94,33.8,Middle,High School,Low,No,Medium,51.42
+73,78,22.1,Low,High School,Low,Yes,Low,45.89
+62,42,22.3,Low,Postgraduate,High,Yes,Low,33.17
+56,71,36.2,Low,Bachelor's,Low,No,Low,46.58
+85,49,0.8,Low,Bachelor's,Medium,No,Low,55.02
+94,49,17.1,Low,High School,Medium,Yes,Medium,46.09
+69,58,40.9,Low,Bachelor's,Low,No,Medium,44.81
+50,85,30.2,Low,High School,Low,Yes,Medium,40.98
+57,73,16.9,High,Bachelor's,Low,Yes,Low,29.61
+95,99,45.3,Middle,High School,Low,No,High,58.57
+65,72,38.6,Low,Postgraduate,Medium,Yes,Low,44.44
+63,62,13.2,Low,Postgraduate,Low,Yes,Medium,37.38
+61,94,32.3,Middle,Bachelor's,Low,No,High,47.67
+100,67,29.8,Middle,No High School,Medium,No,Medium,58.82
+72,71,20.1,Middle,No High School,High,No,Medium,52.99
+64,89,18.3,Low,Bachelor's,Medium,No,High,62.97
+77,46,17.2,Low,No High School,Medium,No,Low,54.78
+83,68,30.9,Low,Bachelor's,Medium,No,Medium,59.01
+51,47,22.1,Low,High School,Low,No,Medium,36.89
+81,40,41.6,Middle,High School,Medium,No,Low,36.14
+72,96,33.5,Middle,Postgraduate,Low,Yes,High,41.65
+71,94,3.5,Low,High School,Medium,Yes,High,58.55
+100,42,32.0,Middle,High School,Medium,Yes,Medium,33.6
+74,63,13.6,Low,High School,Low,No,Low,51.04
+71,62,29.6,Low,No High School,Medium,Yes,Low,48.14
+71,98,34.0,Low,Bachelor's,High,Yes,Medium,57.1
+98,100,11.5,High,No High School,Low,No,Low,68.25
+91,47,22.8,Low,Postgraduate,Medium,No,Medium,53.82
+55,93,9.5,High,Bachelor's,Low,No,Medium,47.75
+64,96,2.6,Middle,No High School,Medium,Yes,Medium,52.34
+92,86,18.9,Low,Bachelor's,Low,No,Medium,65.11
+86,76,18.1,Low,High School,Medium,No,Medium,64.39
+82,42,49.8,Middle,No High School,High,No,Low,41.42
+57,90,22.3,Low,Postgraduate,Medium,No,Low,60.87
+93,72,16.7,High,No High School,Medium,No,Medium,60.03
+93,67,29.0,High,No High School,Low,No,Medium,51.8
+54,86,4.4,Low,High School,High,No,Medium,60.16
+88,47,48.1,Low,High School,Low,Yes,Medium,35.39
+53,73,31.7,High,High School,Medium,No,High,41.93
+55,74,37.7,Middle,Bachelor's,Low,No,Low,37.33
+94,71,8.5,Low,High School,Low,No,Low,60.75
+81,63,20.5,Low,High School,Medium,No,Low,57.45
+79,53,21.1,Low,No High School,Low,No,Medium,52.79
+96,71,41.1,High,No High School,Low,No,Medium,53.09
+84,95,0.1,Middle,No High School,Low,Yes,High,53.19
+89,85,15.0,Middle,No High School,Low,Yes,Medium,49.2
+65,82,49.1,Low,High School,Low,Yes,High,42.39
+62,55,23.7,Low,No High School,Low,No,High,48.23
+99,43,19.1,Middle,No High School,Low,No,Low,44.99
+91,91,6.0,Low,No High School,Low,Yes,Medium,63.1
+79,76,48.7,Low,Postgraduate,Medium,No,Medium,59.23
+68,93,1.0,Low,Postgraduate,Low,No,Low,62.5
+66,60,36.9,Middle,High School,High,No,Medium,40.11
+68,53,38.4,High,Postgraduate,Medium,No,Medium,37.76
+77,70,12.2,Low,Bachelor's,Low,No,Low,54.88
+75,94,33.6,Low,High School,Medium,Yes,Medium,56.74
+86,87,4.6,Middle,No High School,Medium,No,Medium,65.14
+75,57,12.9,High,Bachelor's,High,No,Low,44.01
+72,46,39.4,Low,Bachelor's,Medium,Yes,Medium,36.06
+58,49,43.2,Low,High School,Low,Yes,Low,27.68
+61,46,30.4,Low,Bachelor's,Medium,No,Medium,43.66
+50,72,25.3,Middle,High School,Medium,No,Low,41.27
+50,62,8.0,Low,Bachelor's,Medium,Yes,High,39.0
+96,60,3.2,Low,Postgraduate,Low,Yes,Medium,47.48
+83,58,5.9,Middle,No High School,Medium,No,Low,52.51
+81,87,11.4,Middle,Bachelor's,High,Yes,Medium,47.96
+97,100,17.1,Low,High School,Low,No,Medium,72.39
+74,58,19.0,Middle,High School,Low,No,Medium,38.5
+89,75,17.3,Low,Bachelor's,Low,No,Medium,59.97
+94,68,12.0,Low,No High School,Medium,No,Medium,69.2
+50,99,25.5,Low,High School,Medium,Yes,Low,52.05
+65,57,41.3,Middle,No High School,Medium,No,Low,43.17
+88,41,14.0,Low,High School,Low,No,Medium,46.4
+54,40,47.1,Middle,High School,Medium,No,Medium,27.49
+71,86,43.7,Middle,Bachelor's,Low,No,Low,46.33
+78,44,8.1,Middle,No High School,Low,No,High,40.19
+52,59,39.3,Middle,High School,Medium,No,Low,35.27
+61,50,28.7,Middle,No High School,High,No,Medium,40.43
+75,81,28.3,Low,Bachelor's,High,Yes,Low,52.07
+65,41,19.6,Low,Postgraduate,High,No,Low,43.94
+100,42,25.1,High,Postgraduate,Low,No,High,39.29
+86,62,19.9,Low,Bachelor's,Low,Yes,Low,43.61
+71,94,27.0,Middle,Bachelor's,Medium,No,Medium,56.2
+78,51,31.4,High,No High School,High,No,Low,45.66
+63,59,33.7,Low,No High School,Low,Yes,Medium,39.13
+77,44,26.6,Middle,High School,Low,No,High,33.04
+54,76,36.1,Low,Bachelor's,Low,No,Low,47.99
+96,77,7.1,Low,Postgraduate,Medium,No,High,68.89
+98,69,10.6,Low,No High School,Low,No,Medium,65.94
+79,48,40.9,Low,Postgraduate,Low,Yes,Medium,33.81
+95,73,16.1,Middle,High School,Low,No,Medium,51.09
+54,92,1.1,Middle,High School,Low,Yes,High,37.89
+61,83,7.7,Middle,No High School,Medium,Yes,Low,45.73
+65,74,11.2,Low,No High School,Low,No,Low,57.98
+75,91,47.9,Low,High School,Medium,No,High,64.11
+75,97,28.7,Middle,High School,Medium,No,Medium,58.43
+97,61,46.6,Low,No High School,Medium,No,Low,63.84
+70,83,28.8,High,High School,Low,No,Medium,46.32
+88,63,24.0,Middle,Bachelor's,High,Yes,Medium,39.2
+85,56,15.7,Middle,Bachelor's,Medium,Yes,Medium,36.33
+82,49,30.3,High,Postgraduate,High,No,Low,41.17
+79,69,7.0,Low,No High School,High,No,Medium,65.6
+86,95,44.9,Middle,No High School,Low,Yes,Low,49.31
+72,98,41.5,Low,Bachelor's,Low,No,Medium,61.65
+59,85,15.9,High,High School,Low,Yes,High,35.11
+54,62,47.6,Low,No High School,Medium,No,Medium,51.24
+85,71,41.3,Middle,No High School,Low,No,Low,49.77
+83,56,33.3,Middle,High School,Low,Yes,Low,28.97
+80,89,6.1,Low,No High School,Low,No,Medium,68.99
+59,90,23.9,Low,No High School,Low,Yes,Medium,51.31
+68,56,25.3,Middle,No High School,Low,Yes,Low,30.27
+81,53,11.6,Low,No High School,Low,No,Medium,54.34
+50,48,4.0,Low,High School,Low,No,Low,38.8
+54,79,38.8,Low,High School,Low,Yes,Low,38.92
+94,41,6.1,Low,High School,Low,Yes,Low,38.99
+53,84,29.7,Middle,No High School,Low,No,Low,46.53
+65,64,46.8,Low,No High School,Medium,Yes,Low,45.42
+73,78,43.8,Low,High School,Medium,No,Medium,58.72
+65,48,13.9,Low,High School,Low,No,High,42.31
+51,93,42.6,Low,High School,Low,Yes,Medium,43.24
+98,61,0.0,Low,No High School,Medium,No,Low,68.8
+77,82,0.9,Low,Postgraduate,Medium,Yes,Low,55.81
+81,85,30.1,Low,No High School,Medium,No,Low,70.29
+76,43,18.2,Low,High School,Medium,No,Low,48.18
+69,65,19.3,Middle,High School,Low,No,Medium,39.77
+73,97,28.2,Low,High School,Low,No,Medium,62.88
+61,68,9.6,Middle,No High School,Low,No,Low,44.54
+99,84,10.6,Low,High School,High,No,Low,72.24
+84,73,24.2,Low,Bachelor's,Medium,No,Low,61.98
+82,62,37.7,Middle,No High School,Medium,No,Low,50.63
+82,76,31.0,Low,No High School,Low,No,Medium,61.9
+100,50,14.9,Middle,No High School,Medium,Yes,Low,43.51
+92,45,21.5,Middle,Bachelor's,Low,No,Medium,38.45
+86,57,8.5,Low,No High School,Low,No,Medium,57.75
+61,60,3.7,Middle,Postgraduate,Low,No,High,36.93
+52,81,39.1,Middle,High School,Medium,No,High,44.09
+50,75,13.3,Low,Postgraduate,Low,No,Medium,48.67
+82,80,8.9,Low,Postgraduate,Medium,No,Low,65.71
+89,77,34.6,Low,High School,Low,No,Medium,59.04
+59,73,30.9,Middle,No High School,Medium,Yes,Medium,38.81
+92,56,31.7,Middle,No High School,Medium,Yes,Low,41.83
+93,76,11.4,High,No High School,Low,No,Medium,57.16
+78,64,11.6,Middle,Bachelor's,Medium,No,High,47.84
+62,77,11.0,Low,No High School,Medium,No,Medium,63.3
+61,97,8.7,Low,No High School,Medium,No,Low,71.23
+80,51,32.8,Middle,High School,Medium,No,Low,41.12
+95,62,42.4,Low,Postgraduate,Medium,No,Medium,59.06
+51,92,36.2,High,No High School,Low,No,Low,48.48
+100,81,39.6,Low,No High School,Medium,No,Medium,73.44
+99,61,20.2,Low,No High School,Low,No,Medium,62.08
+84,60,32.7,Middle,Postgraduate,Low,No,Low,40.93
+72,66,17.7,Middle,High School,Low,No,High,41.23
+66,96,26.3,Low,No High School,Medium,No,Medium,70.57
+75,70,24.1,Middle,No High School,Medium,No,Low,53.09
+57,45,8.8,Low,No High School,Low,No,Medium,44.22
+78,66,19.4,Middle,No High School,Medium,No,Medium,52.86
+75,79,48.2,Middle,Postgraduate,High,No,Medium,49.28
+59,73,12.4,Middle,Bachelor's,Low,No,High,40.66
+75,51,6.7,Middle,High School,Low,No,Medium,37.23
+83,84,20.9,Low,Bachelor's,Medium,No,High,66.41
+100,96,39.5,Low,No High School,Low,No,Medium,74.45
+90,92,29.1,High,Bachelor's,Medium,No,Medium,60.89
+56,46,34.0,Low,Bachelor's,Low,No,High,36.8
+53,49,9.5,High,No High School,Low,No,Medium,34.55
+99,84,30.9,Low,Bachelor's,Medium,Yes,Low,60.21
+94,56,16.2,Middle,No High School,Medium,No,Medium,53.98
+60,65,41.7,Middle,No High School,Medium,No,Medium,44.83
+78,60,31.5,High,No High School,Medium,Yes,Low,39.25
+85,67,9.9,Low,High School,Medium,Yes,High,51.31
+74,97,3.2,Middle,Bachelor's,Medium,No,Low,60.68
+70,85,2.1,Low,Postgraduate,Low,No,Low,59.79
+85,41,18.6,Low,High School,Medium,No,High,50.04
+59,99,13.3,Middle,Bachelor's,Low,No,Medium,50.97
+86,93,32.3,Middle,Bachelor's,Medium,No,Low,59.77
+58,82,25.0,High,No High School,Low,No,Medium,47.7
+73,40,13.3,Low,High School,Medium,No,Medium,46.57
+84,90,7.5,Low,No High School,Low,Yes,Low,60.45
+98,92,6.4,Low,High School,Medium,Yes,High,65.56
+84,75,43.2,Low,Postgraduate,Medium,No,Medium,60.88
+97,90,12.2,Low,No High School,Low,No,Medium,73.88
+85,65,32.6,Middle,Bachelor's,Medium,No,Medium,48.24
+67,68,40.5,Low,High School,Low,Yes,Medium,38.25
+98,60,30.7,High,High School,Medium,No,Low,50.33
+88,50,43.0,High,No High School,Medium,No,Low,47.1
+81,79,19.6,Middle,No High School,Low,No,Medium,53.94
+73,50,47.8,High,No High School,High,No,High,42.12
+72,75,6.7,Middle,No High School,Low,No,Low,50.93
+81,88,5.1,Low,No High School,Low,Yes,Medium,58.99
+86,98,32.9,Low,High School,High,No,High,71.71
+61,78,47.1,Low,No High School,Low,No,Low,54.79
+98,79,40.4,Low,Bachelor's,High,No,Low,66.96
+62,74,3.8,Middle,High School,High,No,Low,47.82
+72,93,14.0,Low,High School,Low,Yes,Medium,52.4
+74,73,46.5,Middle,High School,Medium,Yes,Low,36.75
+84,94,12.7,Middle,High School,Low,Yes,Medium,46.53
+90,86,39.1,Low,Postgraduate,Low,Yes,Medium,52.49
+79,63,41.3,High,No High School,Low,No,Medium,44.77
+66,93,24.8,Low,No High School,Low,No,Low,64.52
+98,61,19.3,Low,Bachelor's,Low,No,Medium,56.87
+69,44,22.5,Middle,No High School,Low,Yes,Medium,26.05
+97,95,11.3,Low,No High School,High,No,High,80.97
+74,72,44.5,Middle,No High School,Medium,No,High,51.55
+71,97,22.5,Low,No High School,Medium,Yes,Medium,62.85
+62,75,44.1,Low,High School,Medium,No,Medium,54.19
+68,86,5.3,High,No High School,Medium,No,Low,59.27
+98,59,49.4,Low,Bachelor's,Low,No,Low,53.06
+85,58,22.2,Low,Bachelor's,Medium,No,Low,56.48
+61,74,2.4,Low,High School,High,No,Medium,57.66
+90,91,1.9,High,High School,Low,Yes,Low,48.21
+68,82,37.3,Low,Bachelor's,Medium,No,Low,59.47
+61,56,33.0,Low,No High School,Medium,Yes,High,42.4
+58,98,40.1,Low,Bachelor's,High,No,Low,62.59
+56,84,5.3,Low,Bachelor's,Medium,No,Low,59.87
+77,82,1.8,Middle,Bachelor's,Low,Yes,Low,40.72
+63,73,25.4,Middle,High School,Low,No,Medium,40.56
+80,48,19.4,Low,No High School,Low,No,Medium,51.26
+68,65,23.1,Middle,High School,Medium,Yes,Low,34.09
+96,41,49.6,Low,Bachelor's,Low,No,Medium,45.24
+65,92,48.5,High,No High School,Medium,No,Medium,56.45
+54,48,47.1,High,Bachelor's,Low,No,High,25.69
+84,48,39.2,Low,No High School,Low,No,High,50.48
+61,79,17.7,Middle,No High School,Low,No,High,48.13
+74,56,20.6,Middle,No High School,Medium,No,Medium,47.54
+70,40,27.5,Low,No High School,Low,Yes,Low,34.25
+85,64,41.5,Low,High School,Low,Yes,Low,41.95
+72,100,3.4,Low,No High School,Low,No,Low,71.26
+65,82,21.2,Middle,Postgraduate,Low,No,Medium,45.18
+88,79,4.1,High,High School,Low,No,High,52.59
+94,81,25.7,Middle,No High School,Medium,No,Medium,63.03
+91,64,44.9,Middle,High School,Medium,No,Low,48.41
+88,78,39.1,Middle,Bachelor's,Low,Yes,Medium,38.69
+63,74,11.4,Middle,Bachelor's,Medium,Yes,High,37.36
+80,42,48.8,Middle,No High School,High,No,Medium,40.92
+54,89,33.4,Low,Bachelor's,Medium,No,High,58.46
+84,76,0.5,Low,Bachelor's,Medium,No,High,65.55
+72,83,12.8,Middle,No High School,Medium,No,High,58.52
+78,83,13.0,Low,No High School,High,No,Medium,70.3
+92,90,3.5,Middle,High School,Medium,Yes,Medium,53.25
+60,69,48.0,Low,No High School,Low,No,Low,50.8
+67,77,23.9,Low,Bachelor's,Medium,Yes,Low,48.51
+96,73,44.8,Middle,No High School,Medium,No,Medium,58.52
+61,51,16.1,Low,Postgraduate,Low,No,Low,42.09
+58,58,6.3,Low,High School,Low,No,High,44.97
+59,76,23.7,Low,No High School,Medium,No,Low,60.73
+93,83,5.7,Middle,No High School,Medium,No,High,65.53
+66,98,24.3,Low,High School,Low,No,Low,61.57
+87,98,46.0,High,Bachelor's,Medium,Yes,Low,50.7
+56,88,26.0,Low,Bachelor's,Low,No,High,54.4
+95,100,30.8,High,No High School,Low,No,Low,65.42
+62,56,7.8,High,No High School,Medium,Yes,Low,35.22
+89,49,2.2,Low,No High School,Low,Yes,Low,46.08
+91,96,5.5,Low,High School,Low,Yes,Medium,60.15
+58,94,29.9,Low,No High School,High,No,Low,67.01
+99,88,4.8,Middle,High School,Low,Yes,Medium,49.42
+76,86,18.8,Low,High School,Low,No,Medium,60.32
+51,51,27.5,Low,Postgraduate,High,No,Medium,42.95
+54,55,19.4,Low,No High School,Medium,No,Medium,51.26
+78,63,8.2,Low,No High School,Medium,No,Medium,62.78
+86,58,13.7,Low,High School,Medium,No,Low,57.63
+87,47,46.4,Middle,High School,Low,No,High,35.26
+68,70,33.8,High,No High School,Medium,No,Low,50.02
+57,60,24.8,Low,Postgraduate,Medium,No,Medium,48.62
+97,56,0.6,Low,Bachelor's,Medium,No,Medium,61.44
+94,62,49.6,Low,No High School,Medium,Yes,High,53.04
+50,76,33.6,Middle,No High School,Medium,Yes,Medium,37.04
+71,93,15.8,High,High School,Low,No,Low,51.92
+66,55,44.0,Middle,Bachelor's,Low,Yes,Medium,22.4
+56,45,12.9,High,No High School,Medium,No,Medium,38.51
+74,47,27.2,Low,High School,Medium,No,Low,48.28
+94,64,31.8,Middle,High School,Medium,No,Medium,50.62
+53,57,11.1,Middle,No High School,Low,No,Medium,37.59
+85,64,48.9,Low,High School,Medium,Yes,High,46.21
+55,51,37.4,High,Postgraduate,Medium,No,Medium,33.16
+80,54,27.9,Low,No High School,Medium,No,Low,57.81
+68,98,9.0,Middle,No High School,Medium,No,Low,63.7
+93,65,2.7,Low,High School,High,No,High,63.63
+88,80,16.0,Low,Bachelor's,Medium,Yes,High,56.8
+76,84,37.7,Middle,Postgraduate,Medium,Yes,Low,42.63
+59,65,13.5,Low,High School,Medium,No,Low,52.35
+75,86,27.0,Low,Bachelor's,High,Yes,Medium,54.2
+68,71,36.4,Low,High School,Medium,No,Low,55.16
+88,49,5.4,Middle,High School,Medium,Yes,Low,35.46
+52,55,34.3,Low,No High School,Medium,No,Low,49.17
+94,46,4.6,Low,No High School,Medium,No,Low,61.14
+62,56,48.3,High,No High School,Low,No,Medium,36.17
+99,62,24.4,Middle,High School,Low,No,Medium,47.06
+77,65,7.5,Low,No High School,High,No,Low,63.35
+69,60,17.1,Middle,Postgraduate,Medium,No,Low,42.99
+77,61,20.7,Middle,No High School,Medium,No,Low,50.43
+57,97,37.9,Middle,No High School,High,Yes,Medium,47.11
+90,46,37.2,Low,High School,Medium,No,Low,51.68
+88,53,30.6,Low,Bachelor's,Medium,No,Medium,54.54
+50,54,5.3,Low,No High School,Medium,No,Medium,51.07
+52,92,7.6,Low,No High School,Medium,Yes,Low,56.64
+62,46,4.7,Low,Postgraduate,Low,No,Low,41.53
+77,48,28.9,Low,No High School,Low,Yes,Low,39.41
+98,90,43.9,Middle,No High School,Low,Yes,Medium,51.01
+74,87,21.7,Low,Bachelor's,Low,No,High,59.83
+82,47,8.0,Low,No High School,Medium,No,Low,57.6
+87,89,27.9,Middle,High School,Low,No,High,53.91
+55,98,40.6,Low,No High School,Low,No,Low,61.64
+93,62,37.1,Low,No High School,Low,Yes,High,48.99
+94,68,44.1,Middle,No High School,Low,Yes,Medium,40.99
+81,57,13.9,Low,No High School,Medium,No,Medium,60.71
+94,70,9.7,Middle,No High School,Medium,No,Medium,60.23
+96,69,44.0,Middle,No High School,Medium,Yes,Medium,47.0
+70,91,32.9,Low,Bachelor's,Low,No,High,59.11
+65,78,15.5,Middle,No High School,Low,No,Medium,49.15
+70,74,37.1,Low,High School,Low,No,Medium,51.89
+60,57,40.8,Low,Bachelor's,Medium,No,Low,46.72
+86,98,30.7,Low,High School,Low,Yes,Low,56.93
+85,81,34.4,Low,No High School,Medium,No,High,69.46
+84,78,18.8,High,Postgraduate,Low,No,Medium,49.52
+68,56,26.9,Low,No High School,Medium,Yes,Medium,45.11
+69,53,26.2,Low,No High School,Low,No,Medium,49.28
+67,70,42.4,Low,Bachelor's,Low,Yes,High,38.86
+96,63,42.0,Low,High School,Medium,No,Medium,59.8
+90,74,41.6,Low,High School,Low,No,Medium,57.44
+98,83,0.6,Low,No High School,Low,Yes,Medium,62.54
+63,99,37.5,Middle,High School,Medium,No,Low,54.75
+64,84,37.9,Low,No High School,Medium,No,Low,64.01
+80,73,33.9,Low,Postgraduate,Medium,No,High,59.81
+50,42,37.8,Low,No High School,Low,No,Low,38.02
+52,76,42.1,Low,Bachelor's,Low,No,High,46.79
+65,82,23.5,Middle,High School,Low,Yes,Low,34.95
+72,79,25.1,Low,Bachelor's,Low,Yes,Low,45.69
+60,65,6.2,Low,Bachelor's,Medium,Yes,High,43.38
+61,94,19.3,Low,High School,Medium,No,Medium,63.97
+59,62,32.2,Middle,No High School,Low,No,Low,39.28
+81,83,39.0,Middle,No High School,Medium,No,Medium,58.6
+65,78,10.9,Low,No High School,Low,Yes,Medium,49.61
+57,54,6.9,Middle,Bachelor's,Medium,No,Medium,38.01
+87,95,33.2,Middle,Bachelor's,Low,No,Low,55.78
+61,88,0.1,Middle,High School,Low,Yes,High,38.49
+73,43,8.9,Middle,No High School,Medium,No,High,43.21
+77,68,1.5,Low,No High School,Medium,No,Low,65.15
+57,61,8.3,Low,High School,Medium,Yes,High,40.67
+77,64,9.1,Low,High School,Low,Yes,High,42.79
+85,52,19.4,Low,Bachelor's,Low,No,Medium,49.36
+75,57,20.1,High,Postgraduate,Low,No,Medium,38.29
+57,72,43.7,Low,No High School,Low,Yes,Low,41.53
+99,55,25.5,Low,High School,Medium,No,Low,59.15
+77,84,36.2,Middle,High School,Low,No,Medium,48.08
+77,81,5.2,Low,No High School,Low,No,High,64.98
+86,83,11.3,Low,No High School,Medium,No,Medium,72.87
+90,41,35.1,Low,No High School,Low,No,Medium,49.89
+85,94,2.6,Low,Bachelor's,Medium,No,Low,72.84
+76,74,24.3,Middle,High School,Medium,No,Low,49.97
+66,81,30.0,Low,High School,Low,No,Medium,54.2
+58,73,30.1,Low,Postgraduate,High,Yes,Low,43.59
+82,69,1.1,Low,Bachelor's,Medium,Yes,Medium,52.09
+69,98,16.1,Low,No High School,Low,Yes,Low,58.29
+62,94,31.8,Middle,High School,Low,No,Medium,48.02
+77,52,7.4,Low,High School,Low,No,Low,48.16
+97,52,34.8,Low,Bachelor's,Medium,No,Medium,56.42
+78,57,37.3,High,Bachelor's,Medium,Yes,Medium,32.47
+62,71,49.1,Middle,High School,Medium,No,Low,42.09
+95,71,10.5,Low,No High School,High,No,Low,70.85
+84,74,41.3,Low,Bachelor's,Medium,Yes,Low,50.67
+55,98,26.0,Middle,No High School,Medium,No,High,58.1
+67,78,18.7,Middle,No High School,Low,No,Low,49.43
+100,85,6.1,Low,No High School,Medium,Yes,Medium,68.39
+54,91,36.8,High,No High School,Low,Yes,High,38.92
+96,68,11.8,Low,No High School,Medium,No,Medium,69.82
+74,88,18.6,Low,Bachelor's,Low,Yes,Low,50.54
+51,68,3.1,Low,Postgraduate,Low,No,High,47.19
+59,92,40.1,Low,No High School,Low,Yes,Low,50.49
+79,83,38.3,Middle,No High School,Low,No,Medium,53.07
+99,96,36.7,Low,No High School,Medium,No,High,79.43
+94,55,15.0,Low,No High School,Low,No,Medium,58.7
+54,95,8.7,Middle,No High School,Medium,Yes,Medium,48.33
+82,83,31.9,Low,Postgraduate,Low,No,Low,59.61
+50,86,24.8,Low,No High School,Medium,No,Low,61.92
+67,96,8.9,Low,High School,Low,No,Medium,62.61
+81,49,34.3,Low,No High School,Low,Yes,Low,40.47
+96,69,49.6,Low,Bachelor's,Medium,No,High,61.44
+98,64,37.4,Middle,Bachelor's,Low,No,High,46.26
+60,78,37.0,Low,Postgraduate,Low,No,High,50.5
+70,59,47.5,Low,Bachelor's,Low,No,Medium,44.85
+75,44,10.1,Middle,No High School,Low,No,Medium,39.09
+74,40,28.3,Middle,No High School,Medium,No,High,40.37
+71,69,49.0,Low,High School,Low,No,High,49.0
+76,88,8.3,Low,No High School,Medium,No,Medium,72.17
+98,42,35.0,Low,High School,Medium,Yes,Low,42.7
+62,84,29.3,Low,No High School,Low,No,Low,59.27
+82,53,29.3,Low,No High School,High,No,Medium,57.87
+83,95,34.9,Low,High School,Medium,Yes,Medium,59.41
+90,69,46.5,High,High School,Medium,No,High,49.95
+84,89,39.1,Low,Bachelor's,Medium,Yes,Low,56.89
+50,43,2.8,Middle,No High School,Medium,No,Low,36.92
+70,57,42.6,Low,High School,Medium,No,Low,49.54
+97,76,11.3,Middle,No High School,Low,No,Low,58.37
+55,64,18.8,Middle,No High School,Low,Yes,Low,30.22
+77,87,23.1,Middle,High School,Low,No,Medium,50.59
+66,40,24.0,Low,No High School,Low,No,Medium,43.4
+54,92,21.8,Low,No High School,Low,Yes,Medium,50.82
+80,85,46.9,Low,No High School,Low,No,Low,63.31
+54,54,35.3,Middle,No High School,Low,No,Low,34.27
+87,48,31.6,Low,No High School,Medium,No,Medium,57.14
+52,54,2.5,Low,No High School,Medium,Yes,High,41.95
+72,88,45.2,Low,No High School,High,No,Low,67.28
+86,96,45.5,Low,No High School,Low,No,High,69.65
+86,63,39.0,Low,High School,Medium,No,Low,57.1
+59,43,0.4,Low,No High School,Medium,No,High,49.86
+59,51,2.9,High,No High School,Low,Yes,High,27.81
+68,98,11.3,Middle,No High School,Low,Yes,Low,48.47
+66,97,6.6,High,High School,High,Yes,Medium,47.94
+70,76,19.9,Low,Bachelor's,Medium,Yes,Low,49.41
+63,100,46.1,Middle,Bachelor's,Low,No,High,49.29
+58,76,23.6,Middle,Bachelor's,Low,No,Medium,40.44
+95,82,0.7,Middle,High School,Low,Yes,Medium,46.23
+50,99,14.1,Middle,High School,Medium,No,Medium,53.19
+100,45,2.2,Low,High School,Medium,No,High,57.78
+94,78,1.8,Middle,No High School,Low,Yes,Low,49.22
+62,95,13.8,Low,No High School,Low,No,Medium,65.22
+53,85,13.8,Low,No High School,Medium,Yes,Low,53.52
+50,63,39.4,Low,Postgraduate,Medium,No,Low,46.26
+98,50,48.7,High,High School,Low,No,Medium,39.53
+89,52,18.6,Middle,Bachelor's,Medium,No,Low,45.64
+81,73,21.4,High,No High School,Low,No,Low,51.36
+83,64,42.2,Middle,High School,Low,Yes,High,31.28
+77,46,13.4,Low,No High School,Medium,No,Low,55.16
+80,91,7.8,Low,No High School,Low,No,Medium,69.62
+57,43,42.7,Low,Bachelor's,Medium,No,Low,40.03
+88,98,2.3,Low,High School,Medium,No,Low,75.37
+75,47,31.0,Low,No High School,Medium,No,Low,53.2
+83,59,28.1,Low,Bachelor's,Low,Yes,Medium,40.69
+52,68,17.3,Low,No High School,Low,No,Medium,51.07
+99,93,15.8,High,Postgraduate,Low,Yes,Low,50.32
+61,92,38.6,Low,No High School,Medium,Yes,Low,56.24
+50,90,4.3,Middle,No High School,Medium,No,High,55.57
+93,84,11.8,Middle,No High School,Medium,No,Low,65.32
+54,85,36.6,Low,No High School,Medium,Yes,High,51.54
+79,49,27.4,Low,No High School,High,No,Low,55.56
+79,82,6.4,Low,High School,Medium,No,Medium,65.86
+66,73,44.1,Low,Bachelor's,Low,No,Low,49.59
+97,96,19.7,Middle,Bachelor's,Low,Yes,High,50.53
+96,65,41.4,Low,No High School,Medium,Yes,Medium,55.66
+72,80,39.4,Low,High School,Low,Yes,Medium,44.66
+64,88,31.2,Low,No High School,Low,No,Low,61.28
+86,97,24.7,High,No High School,Medium,No,Medium,67.13
+70,42,49.0,Middle,High School,Medium,No,Medium,32.9
+63,95,7.2,Middle,High School,Low,No,Low,51.18
+51,45,36.3,Low,No High School,Medium,No,Low,44.67
+60,44,9.6,Middle,No High School,Medium,Yes,High,29.64
+100,44,16.9,Middle,Postgraduate,Low,Yes,Low,30.91
+88,93,15.4,Middle,No High School,Low,No,Medium,62.06
+87,86,47.4,High,High School,Low,No,Medium,50.76
+83,62,48.4,Low,High School,Medium,No,High,54.86
+87,88,9.2,High,No High School,Medium,No,High,65.38
+99,48,1.1,High,No High School,Medium,Yes,High,43.79
+83,74,36.0,Low,No High School,Medium,Yes,Low,55.9
+67,59,20.9,Low,Bachelor's,Low,No,High,46.61
+79,97,4.4,High,High School,Low,No,Low,57.06
+64,88,34.2,Low,High School,Medium,No,Medium,60.98
+76,100,27.3,Low,Postgraduate,Low,No,Medium,65.07
+100,98,49.0,High,Bachelor's,Low,No,Low,59.3
+83,81,11.4,Low,High School,Low,No,High,61.16
+87,74,20.2,Low,High School,Low,No,Low,58.68
+82,89,27.1,Low,High School,Low,Yes,Medium,52.49
+73,57,39.6,Low,High School,Low,No,Medium,45.74
+64,56,27.4,Low,High School,Low,No,Medium,43.86
+79,63,30.6,Low,High School,Low,No,Low,50.84
+91,42,11.3,Middle,No High School,Medium,No,Medium,47.97
+100,71,42.3,Low,High School,Medium,No,High,64.17
+66,74,21.4,Middle,No High School,Low,No,Low,47.26
+54,77,7.0,Middle,No High School,Medium,No,Medium,51.3
+78,52,33.2,Low,No High School,Low,No,Low,50.88
+53,95,10.8,Middle,High School,Medium,Yes,Medium,42.82
+59,100,4.9,Low,High School,Medium,No,High,67.21
+66,86,43.1,Low,No High School,Medium,Yes,Medium,54.89
+59,64,23.0,Low,High School,Medium,No,Medium,51.0
+66,48,37.5,High,High School,Low,No,Medium,30.25
+69,43,14.5,Low,No High School,Low,No,Medium,46.45
+73,53,39.3,Low,High School,Medium,No,Low,49.17
+54,76,5.6,Middle,Bachelor's,Low,Yes,Low,31.04
+83,73,17.8,Low,Bachelor's,Low,Yes,Medium,47.32
+55,50,48.9,Low,High School,Medium,Yes,Medium,31.61
+51,80,39.7,Low,High School,Medium,Yes,Medium,43.33
+62,95,24.9,Middle,No High School,Medium,No,Low,59.11
+92,42,17.0,Middle,No High School,Low,No,Low,42.7
+92,98,43.6,Low,No High School,Medium,No,Low,77.44
+97,67,27.2,Low,Postgraduate,Low,Yes,High,48.18
+60,68,37.9,Low,No High School,Low,Yes,Medium,41.41
+100,48,37.7,Middle,No High School,Medium,No,Low,50.43
+96,42,0.9,Low,Bachelor's,Low,Yes,Low,40.51
+72,64,6.3,Low,Postgraduate,Low,No,High,51.57
+65,73,33.0,Low,Bachelor's,Medium,No,Low,55.4
+80,51,8.1,Low,No High School,Low,No,High,53.59
+60,81,12.8,Low,No High School,Low,No,Low,59.12
+65,48,47.3,Low,No High School,Low,Yes,High,33.97
+57,54,28.0,Low,No High School,Low,No,High,45.9
+53,79,37.5,Middle,No High School,Low,No,Medium,43.75
+89,64,27.9,Low,High School,Medium,No,Low,59.51
+53,44,27.6,High,Postgraduate,Medium,No,Low,30.74
+74,50,4.7,Low,No High School,Low,No,Medium,51.73
+52,98,17.2,Middle,High School,Medium,No,Medium,53.08
+81,73,14.1,Middle,High School,Low,No,Low,47.09
+52,63,19.5,Low,No High School,Low,No,Low,48.85
+76,99,39.9,Low,High School,Medium,No,Medium,68.41
+78,54,18.6,Middle,No High School,Low,Yes,Medium,33.14
+81,77,22.6,Low,No High School,High,No,Low,67.84
+99,47,19.9,High,Bachelor's,Low,No,Low,41.51
+100,98,4.7,Low,No High School,Medium,No,High,83.73
+68,44,22.1,High,Postgraduate,Low,No,Medium,30.79
+70,87,9.8,Low,No High School,Low,No,Medium,64.82
+54,65,9.3,Middle,High School,Low,Yes,Medium,26.27
+67,57,4.7,Middle,High School,Medium,Yes,Low,32.43
+77,45,17.8,Middle,No High School,Medium,Yes,Low,34.32
+91,76,37.9,Low,No High School,High,No,Low,68.91
+71,99,13.8,Middle,High School,Low,No,High,54.52
+70,87,15.6,Low,Bachelor's,Low,Yes,Medium,49.24
+55,52,32.1,Middle,Bachelor's,Low,No,Low,29.09
+50,67,9.8,Low,High School,Medium,No,High,50.82
+54,44,44.8,Middle,Bachelor's,Medium,Yes,Low,19.32
+90,52,26.0,Low,High School,Low,No,High,50.2
+61,56,22.4,Middle,Bachelor's,Medium,No,High,38.46
+75,89,27.9,Middle,High School,Low,No,Low,50.31
+95,79,8.3,Middle,High School,Medium,No,Low,59.27
+83,84,30.7,Low,Bachelor's,Medium,No,Medium,65.43
+98,71,18.2,Low,No High School,Low,No,Medium,65.98
+63,68,44.9,High,Bachelor's,Low,No,Medium,36.61
+75,90,8.4,Low,High School,High,No,High,67.66
+94,97,25.4,Low,No High School,Medium,No,Medium,79.46
+76,42,29.9,Middle,No High School,Medium,Yes,Low,31.61
+58,95,1.7,Middle,No High School,Medium,No,Low,60.23
+75,79,18.2,Low,High School,Low,No,Medium,57.28
+96,73,36.6,Middle,Bachelor's,Medium,No,Low,54.34
+71,79,41.0,Middle,No High School,Medium,Yes,Medium,43.8
+96,66,15.7,Low,Bachelor's,Medium,No,Low,63.63
+79,52,39.9,High,Bachelor's,Low,No,Low,35.51
+92,84,48.4,Low,No High School,Low,No,Low,66.36
+97,72,42.8,Low,Bachelor's,Low,Yes,Medium,48.62
+66,45,5.9,Low,Postgraduate,Low,No,Low,42.21
+75,63,37.0,Low,Bachelor's,Low,No,Medium,49.0
+85,58,16.0,High,Bachelor's,Low,No,Medium,42.1
+50,55,49.4,Low,Postgraduate,Low,No,Medium,37.06
+57,79,24.3,Low,High School,Low,Yes,Medium,41.27
+98,67,6.1,Low,No High School,Medium,Yes,Low,60.59
+84,72,36.3,Low,Bachelor's,Low,No,Medium,55.37
+64,98,16.2,Low,High School,Low,Yes,Low,51.78
+96,98,49.9,Low,High School,Low,No,Medium,68.01
+71,87,49.0,Low,No High School,Low,No,Low,61.2
+63,80,32.8,Middle,Bachelor's,Medium,No,Medium,47.62
+75,52,6.5,Low,No High School,Low,No,High,52.65
+77,82,34.3,Low,Postgraduate,Medium,Yes,Medium,52.47
+72,84,4.7,Low,No High School,High,No,Medium,69.73
+63,64,1.5,Middle,No High School,Medium,No,Medium,49.35
+73,92,41.1,Low,High School,Medium,No,Low,64.59
+51,81,10.5,Low,No High School,Medium,No,High,61.65
+94,75,19.0,Low,High School,Medium,No,Low,66.3
+75,66,48.7,High,Postgraduate,Low,No,High,39.03
+63,77,16.8,Low,Bachelor's,Low,Yes,Medium,43.02
+100,99,14.8,Middle,No High School,Medium,No,Medium,73.12
+56,46,45.9,Low,No High School,Low,No,Medium,40.61
+52,44,5.5,Low,Bachelor's,Low,Yes,Medium,27.65
+96,82,38.0,Middle,Postgraduate,Medium,Yes,Medium,47.8
+72,84,49.4,Low,High School,Medium,No,Low,60.26
+95,97,45.1,Middle,High School,Low,Yes,Medium,47.79
+92,96,32.6,High,No High School,Medium,No,Medium,67.74
+96,90,15.7,Middle,Bachelor's,Low,No,High,58.23
+94,70,12.7,Low,High School,Medium,No,Medium,64.93
+67,62,41.0,Middle,No High School,Low,Yes,Low,30.8
+87,81,44.0,Low,No High School,Low,No,Low,64.1
+84,49,26.3,Middle,Bachelor's,Medium,No,Medium,42.17
+100,71,12.2,Middle,No High School,Low,No,Low,57.18
+64,82,5.6,Middle,No High School,Medium,Yes,Low,46.44
+74,92,4.4,Low,High School,Low,No,High,63.56
+86,69,36.0,Low,No High School,Low,No,Medium,59.8
+77,78,21.0,Low,No High School,Medium,No,Medium,67.2
+59,70,45.3,Middle,Bachelor's,Low,Yes,Low,26.17
+88,57,37.0,Low,Bachelor's,Low,Yes,Medium,40.5
+66,75,9.6,Low,Bachelor's,Low,No,Low,53.84
+88,41,30.7,Middle,Bachelor's,Medium,No,Medium,39.73
+71,53,21.8,Low,High School,High,Yes,Low,40.32
+75,52,28.9,Low,Bachelor's,High,No,High,50.41
+93,68,36.9,Low,No High School,Low,Yes,Medium,51.41
+74,51,40.3,Low,High School,Low,Yes,Medium,33.57
+66,78,42.2,Low,Postgraduate,Low,No,Medium,51.78
+62,41,12.7,Low,No High School,Medium,No,Medium,48.73
+69,71,1.6,Low,No High School,Low,No,Low,58.94
+74,52,37.0,Low,High School,High,No,Medium,49.3
+53,85,5.3,Middle,No High School,Low,No,Low,49.37
+59,66,15.7,Low,No High School,High,No,High,57.53
+52,88,0.2,Low,Bachelor's,Medium,No,High,60.78
