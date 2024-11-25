@@ -6,7 +6,8 @@ import streamlit as st
 pipeline = joblib.load("student_loan_pipeline_with_probs.pkl")
 
 # Streamlit app
-st.title("Student Loan Approval Predictor with Probabilities")
+st.title("NELFUND Smart Ranker")
+st.subheader("Student Loan Approval Predictor with Probabilities")
 
 # User inputs
 st.sidebar.header("Input Features")
