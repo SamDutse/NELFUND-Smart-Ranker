@@ -1,19 +1,22 @@
 import pandas as pd
-import joblib
 import streamlit as st
+import cloudpickle
+
+from joblib import load
 
 # Load the trained pipeline
-# pipeline = joblib.load("student_loan_pipeline.pkl")
-import cloudpickle
-with open("student_loan_pipeline.pkl", "rb") as file:
-    pipeline = cloudpickle.load(file)
-
+try:
+    pipeline = load("student_loan_pipeline.joblib")
+    st.success("Model loaded successfully!")
+except Exception as e:
+    st.error(f"Error loading model: {e}")
+    pipeline = None
 
 # Streamlit app title
 st.title("Student Loan Priority Predictor")
+st.sidebar.header("Input Features")
 
 # Sidebar for user inputs
-st.sidebar.header("Input Features")
 attendance_rate = st.sidebar.slider("Attendance Rate (%)", 0, 100, 75)
 grades = st.sidebar.slider("Grades (0-100)", 0, 100, 65)
 distance_to_school = st.sidebar.slider("Distance to School (km)", 0, 50, 10)
@@ -39,14 +42,20 @@ user_data = pd.DataFrame({
 st.subheader("User Input Data")
 st.write(user_data)
 
-# Predict high-priority status
+# Predict high-priority status if the pipeline is loaded
 if st.button("Predict Loan Priority"):
-    prediction = pipeline.predict(user_data)
-    prediction_proba = pipeline.predict_proba(user_data)
-    priority_status = "High Priority" if prediction[0] == 1 else "Low Priority"
-    st.subheader("Prediction Result")
-    st.write(f"Loan Priority Status: **{priority_status}**")
-    st.write(f"Confidence: {max(prediction_proba[0]) * 100:.2f}%")
+    if pipeline:
+        try:
+            prediction = pipeline.predict(user_data)
+            prediction_proba = pipeline.predict_proba(user_data)
+            priority_status = "High Priority" if prediction[0] == 1 else "Low Priority"
+            st.subheader("Prediction Result")
+            st.write(f"Loan Priority Status: **{priority_status}**")
+            st.write(f"Confidence: {max(prediction_proba[0]) * 100:.2f}%")
+        except Exception as e:
+            st.error(f"Error making prediction: {e}")
+    else:
+        st.error("Pipeline not loaded. Please check the model file.")
 
 # Footer
 st.markdown("This application predicts the priority ranking for student loan applicants based on their socioeconomic data.")
